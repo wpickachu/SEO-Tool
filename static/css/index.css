@@ -1,0 +1,74 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-size: 14px;
+  color: #777;
+  -webkit-font-smoothing: antialiased;
+  background: #fcfcfc;
+  padding:15px 0px; 
+}
+.badge{
+    padding:5px 6px;
+    font-size: 13px;
+}
+.table {
+    color: #777;
+    /*counter-reset: Serial;*/
+}
+.table thead{
+  font-size: 12px;
+}
+.table td,.table th{
+    padding:5px;
+}
+/*.auto-index td:first-child:before
+{
+  counter-increment: Serial;
+  content:counter(Serial);
+}*/
+.text-truncate{
+  max-width:150px
+}
+.nav-pills .nav-link.active{
+  background:#E9ECEF;
+  border-top:3px solid #297BCE;
+}
+.nav-pills .nav-link{
+  border:1px solid #ddd;
+  border-bottom:0px; 
+  border-top:3px solid #EF7A24;
+  border-radius:5px 5px 0px 0px;
+
+}
+.nav-pills .nav-link:hover{
+  background:#E9ECEF;
+  border-top:3px solid #297BCE;
+}
+.btn-primary{
+  background:#297BCE;
+}
+.btn-outline-secondary{
+  border-color:#ccc
+}
+.btn-outline-secondary:hover{
+  background:#E9ECEF;
+  color: #999;
+}
+.switcher-icon {
+  margin: 0px 5px;
+}
+#advanced, #basic {
+  font-size: /*1.16rem*/19px;
+}
+h2.score {
+  margin-bottom: 0px;
+}
+@media (min-width:1200px){
+.container{
+    max-width: 1200px ;
+}
+}
+@media (min-width: 576px) {
+  button[type=submit]{
+    margin-top:28px;
+  }
+}  

@@ -1,0 +1,1620 @@
+Feb 15 06:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[12879]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 06:40:27 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Daily apt download activities...
+Feb 15 06:40:29 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Daily apt download activities.
+Feb 15 06:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[12972]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 06:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13017]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 07:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13062]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 07:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13108]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 07:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13120]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 07:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13156]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 07:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13201]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 07:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13246]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 07:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13292]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 08:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13337]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 08:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13390]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 08:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13402]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 08:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13439]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 08:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13484]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 08:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13531]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 08:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13576]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 09:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13622]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 09:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13683]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 09:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13694]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 09:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13729]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 09:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13774]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 09:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13817]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 09:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13860]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 10:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13903]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 10:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13947]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 10:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13958]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 10:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[13995]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 10:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14038]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 10:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14081]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 10:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14126]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 11:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14169]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 11:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14213]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 11:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14224]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 11:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14259]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 11:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14305]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 11:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14348]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 11:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14391]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 12:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14434]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 12:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14486]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 12:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14499]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 12:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14540]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 12:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14583]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 12:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14627]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 12:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14672]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 13:01:27 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 15 13:01:28 iZj6c5pz734d3f5cfcdrmhZ systemd-tmpfiles[14712]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 15 13:01:28 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Cleanup of Temporary Directories.
+Feb 15 13:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[14736]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="481" x-info="http://www.rsyslog.com"] start
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ rsyslogd-2222: command 'KLogPermitNonKernelFacility' is currently not permitted - did you already set it via a RainerScript command (v6+ config)? [v8.16.0 try http://www.rsyslog.com/e/2222 ]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ rsyslogd: rsyslogd's groupid changed to 108
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ rsyslogd: rsyslogd's userid changed to 104
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ rsyslogd-2039: Could not open output pipe '/dev/xconsole':: No such file or directory [v8.16.0 try http://www.rsyslog.com/e/2039 ]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ rsyslogd-2007: action 'action 10' suspended, next retry is Fri Feb 15 13:06:50 2019 [v8.16.0 try http://www.rsyslog.com/e/2007 ]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Initializing cgroup subsys cpuset
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Initializing cgroup subsys cpu
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Initializing cgroup subsys cpuacct
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Linux version 4.4.0-105-generic (buildd@lgw01-amd64-060) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.5) ) #128-Ubuntu SMP Thu Dec 14 12:42:11 UTC 2017 (Ubuntu 4.4.0-105.128-generic 4.4.98)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-105-generic root=UUID=e2048966-750b-4795-a9a2-7b477d6681bf ro net.ifnames=0 console=tty0 console=ttyS0,115200n8 quiet
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] KERNEL supported cpus:
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   Intel GenuineIntel
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   AMD AuthenticAMD
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   Centaur CentaurHauls
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: xstate_offset[3]:  960, xstate_sizes[3]:   64
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: xstate_offset[4]: 1024, xstate_sizes[4]:   64
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: xstate_offset[5]: 1088, xstate_sizes[5]:   64
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: xstate_offset[6]: 1152, xstate_sizes[6]:  512
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: xstate_offset[7]: 1664, xstate_sizes[7]: 1024
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x01: 'x87 floating point registers'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x02: 'SSE registers'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x04: 'AVX registers'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x08: 'MPX bounds registers'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x10: 'MPX CSR'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x20: 'AVX-512 opmask'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x40: 'AVX-512 Hi256'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x80: 'AVX-512 ZMM_Hi256'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Enabled xstate features 0xff, context size is 2688 bytes, using 'standard' format.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/fpu: Using 'eager' FPU context switches.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000001ffdffff] usable
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BIOS-e820: [mem 0x000000001ffe0000-0x000000001fffffff] reserved
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BIOS-e820: [mem 0x00000000feffc000-0x00000000feffffff] reserved
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] NX (Execute Disable) protection: active
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] SMBIOS 2.8 present.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] DMI: Alibaba Cloud Alibaba Cloud ECS, BIOS rel-1.7.5-0-ge51488c-20140602_164612-nilsson.home.kraxel.org 04/01/2014
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Hypervisor detected: KVM
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] e820: last_pfn = 0x1ffe0 max_arch_pfn = 0x400000000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] MTRR default type: write-back
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] MTRR fixed ranges enabled:
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   00000-9FFFF write-back
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   A0000-BFFFF uncachable
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   C0000-FFFFF write-protect
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] MTRR variable ranges enabled:
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   0 base 000080000000 mask 3FFF80000000 uncachable
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   1 disabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   2 disabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   3 disabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   4 disabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   5 disabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   6 disabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   7 disabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WC  UC- WT  
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] found SMP MP-table at [mem 0x000f0e90-0x000f0e9f] mapped at [ffff8800000f0e90]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Scanning 1 areas for low memory corruption
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Base memory trampoline at [ffff880000099000] 99000 size 24576
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Using GB pages for direct mapping
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BRK [0x0220c000, 0x0220cfff] PGTABLE
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BRK [0x0220d000, 0x0220dfff] PGTABLE
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BRK [0x0220e000, 0x0220efff] PGTABLE
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] BRK [0x0220f000, 0x0220ffff] PGTABLE
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] RAMDISK: [mem 0x1d370000-0x1f40cfff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: RSDP 0x00000000000F0C50 000014 (v00 BOCHS )
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: RSDT 0x000000001FFE18EF 000034 (v01 BOCHS  BXPCRSDT 00000001 BXPC 00000001)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: FACP 0x000000001FFE0B52 000074 (v01 BOCHS  BXPCFACP 00000001 BXPC 00000001)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: DSDT 0x000000001FFE0040 000B12 (v01 BOCHS  BXPCDSDT 00000001 BXPC 00000001)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: FACS 0x000000001FFE0000 000040
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: SSDT 0x000000001FFE0BC6 000BF9 (v01 BOCHS  BXPCSSDT 00000001 BXPC 00000001)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: APIC 0x000000001FFE17BF 000078 (v01 BOCHS  BXPCAPIC 00000001 BXPC 00000001)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: SRAT 0x000000001FFE1837 0000B8 (v01 BOCHS  BXPCSRAT 00000001 BXPC 00000001)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Flush Journal to Persistent Storage...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ loadkeys[193]: Loading /etc/console-setup/cached.kmap.gz
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Create Static Device Nodes in /dev.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Local File Systems (Pre).
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ apparmor[265]:  * Starting AppArmor profiles
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Local File Systems.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting LSB: AppArmor initialization...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Set console font and keymap...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting udev Kernel Device Manager...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Tell Plymouth To Write Out Runtime Data.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd-udevd[268]: Network interface NamePolicy= disabled on kernel command line, ignoring.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Flush Journal to Persistent Storage.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Create Volatile Files and Directories...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd-tmpfiles[321]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started udev Kernel Device Manager.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Dispatch Password Requests to Console Directory Watch.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Paths.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Set console font and keymap.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Created slice system-getty.slice.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Create Volatile Files and Directories.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target System Time Synchronized.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Update UTMP about System Boot/Shutdown.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Found device /dev/ttyS0.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Found device Virtio network device.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ apparmor[265]: Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ apparmor[265]:    ...done.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started LSB: AppArmor initialization.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started ifup for eth0.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target System Initialization.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Daily apt download activities.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Daily apt upgrade and clean activities.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Daily Cleanup of Temporary Directories.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Timers.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Listening on D-Bus System Message Bus Socket.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Listening on UUID daemon activation socket.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Sockets.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Basic System.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Regular background program processing daemon.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting System Logging Service...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting LSB: aegis update....
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Deferred execution scheduler.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting LSB: Start/stop sysstat's sadc...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting agentwatch.service...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting LSB: daemon to balance interrupts for SMP systems...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started D-Bus System Message Bus.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ cron[480]: (CRON) INFO (pidfile fd = 3)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ cron[480]: (CRON) INFO (Running @reboot jobs)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: Internet Systems Consortium DHCP Client 4.3.3
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: Internet Systems Consortium DHCP Client 4.3.3
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: Copyright 2004-2015 Internet Systems Consortium.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: Copyright 2004-2015 Internet Systems Consortium.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: All rights reserved.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: All rights reserved.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: For info, please visit https://www.isc.org/software/dhcp/
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: For info, please visit https://www.isc.org/software/dhcp/
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: 
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dbus[502]: [system] AppArmor D-Bus mediation is enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Login Service...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Permit User Sessions...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting PostgreSQL Cluster 9.5-main...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting LSB: Set the CPU Frequency Scaling governor to "ondemand"...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Accounts Service...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting LSB: Record successful boot for GRUB...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Raise network interfaces...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Permit User Sessions.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] SRAT: PXM 0 -> APIC 0x00 -> Node 0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] SRAT: Node 0 PXM 0 [mem 0x00000000-0x0009ffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] SRAT: Node 0 PXM 0 [mem 0x00100000-0x1fffffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] NUMA: Node 0 [mem 0x00000000-0x0009ffff] + [mem 0x00100000-0x1ffdffff] -> [mem 0x00000000-0x1ffdffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] NODE_DATA(0) allocated [mem 0x1ffdb000-0x1ffdffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] kvm-clock: cpu 0, msr 0:1ffd3001, primary cpu clock
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] kvm-clock: using sched offset of 3586979329 cycles
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Zone ranges:
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   DMA32    [mem 0x0000000001000000-0x000000001ffdffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   Normal   empty
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   Device   empty
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Movable zone start for each node
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Early memory node ranges
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   node   0: [mem 0x0000000000100000-0x000000001ffdffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x000000001ffdffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] On node 0 totalpages: 130942
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   DMA zone: 64 pages used for memmap
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   DMA zone: 21 pages reserved
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   DMA zone: 3998 pages, LIFO batch:0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   DMA32 zone: 1984 pages used for memmap
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000]   DMA32 zone: 126944 pages, LIFO batch:31
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x608
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0xff] dfl dfl lint[0x1])
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] IOAPIC[0]: apic_id 0, version 17, address 0xfec00000, GSI 0-23
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 5 global_irq 5 high level)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 10 global_irq 10 high level)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 11 global_irq 11 high level)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: IRQ0 used by override.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: IRQ5 used by override.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: IRQ9 used by override.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: IRQ10 used by override.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] ACPI: IRQ11 used by override.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000effff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] e820: [mem 0x20000000-0xfeffbfff] available for PCI devices
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Booting paravirtualized kernel on KVM
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] setup_percpu: NR_CPUS:512 nr_cpumask_bits:512 nr_cpu_ids:1 nr_node_ids:1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] PERCPU: Embedded 33 pages/cpu @ffff88001fc00000 s98200 r8192 d28776 u2097152
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] pcpu-alloc: s98200 r8192 d28776 u2097152 alloc=1*2097152
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] pcpu-alloc: [0] 0 
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] KVM setup async PF for cpu 0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] kvm-stealtime: cpu 0, msr 1fc0d9c0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] PV qspinlock hash table entries: 256 (order: 0, 4096 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Built 1 zonelists in Node order, mobility grouping on.  Total pages: 128873
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Policy zone: DMA32
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-105-generic root=UUID=e2048966-750b-4795-a9a2-7b477d6681bf ro net.ifnames=0 console=tty0 console=ttyS0,115200n8 quiet
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] PID hash table entries: 2048 (order: 2, 16384 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Calgary: detecting Calgary via BIOS EBDA area
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Memory: 463168K/523768K available (8481K kernel code, 1294K rwdata, 3988K rodata, 1488K init, 1316K bss, 60600K reserved, 0K cma-reserved)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Hierarchical RCU implementation.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] 	Build-time adjustment of leaf fanout to 64.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] 	RCU restricting CPUs from NR_CPUS=512 to nr_cpu_ids=1.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=64, nr_cpu_ids=1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] NR_IRQS:33024 nr_irqs:256 16
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] Console: colour dummy device 80x25
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] console [tty0] enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] console [ttyS0] enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.000000] tsc: Detected 2500.008 MHz processor
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.010912] Calibrating delay loop (skipped) preset value.. 5000.01 BogoMIPS (lpj=10000032)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.010915] pid_max: default: 32768 minimum: 301
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.010919] ACPI: Core revision 20150930
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.011919] ACPI: 2 ACPI AML tables successfully acquired and loaded
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.011935] Security Framework initialized
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.011937] Yama: becoming mindful.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.011951] AppArmor: AppArmor initialized
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.011997] Dentry cache hash table entries: 65536 (order: 7, 524288 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012087] Inode-cache hash table entries: 32768 (order: 6, 262144 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012129] Mount-cache hash table entries: 1024 (order: 1, 8192 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012131] Mountpoint-cache hash table entries: 1024 (order: 1, 8192 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012289] Initializing cgroup subsys io
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012292] Initializing cgroup subsys memory
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012297] Initializing cgroup subsys devices
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012299] Initializing cgroup subsys freezer
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012301] Initializing cgroup subsys net_cls
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012303] Initializing cgroup subsys perf_event
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012305] Initializing cgroup subsys net_prio
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012308] Initializing cgroup subsys hugetlb
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012310] Initializing cgroup subsys pids
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012392] CPU: Physical Processor ID: 0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.012393] CPU: Processor Core ID: 0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.013491] mce: CPU supports 10 MCE banks
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.013532] Last level iTLB entries: 4KB 64, 2MB 8, 4MB 8
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.013534] Last level dTLB entries: 4KB 64, 2MB 0, 4MB 0, 1GB 4
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.026545] Freeing SMP alternatives memory: 32K
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.032921] ftrace: allocating 32155 entries in 126 pages
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.067641] smpboot: APIC(0) Converting physical 0 to logical package 0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.067644] smpboot: Max logical packages: 1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.067857] x2apic enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.068056] Switched APIC routing to physical x2apic.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.068974] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.069003] TSC deadline timer enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.069006] smpboot: CPU0: Intel(R) Xeon(R) Platinum 8163 CPU @ 2.50GHz (family: 0x6, model: 0x55, stepping: 0x4)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.069018] Performance Events: unsupported p6 CPU model 85 no PMU driver, software events only.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.069044] KVM setup paravirtual spinlock
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.070484] x86: Booted up 1 node, 1 CPUs
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.070485] smpboot: Total of 1 processors activated (5000.01 BogoMIPS)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.070809] devtmpfs: initialized
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072528] evm: security.selinux
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072529] evm: security.SMACK64
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072530] evm: security.SMACK64EXEC
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072530] evm: security.SMACK64TRANSMUTE
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072531] evm: security.SMACK64MMAP
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072532] evm: security.ima
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072533] evm: security.capability
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072633] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072641] futex hash table entries: 256 (order: 2, 16384 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072712] pinctrl core: initialized pinctrl subsystem
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072856] RTC time: 13:06:15, date: 02/15/19
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.072971] NET: Registered protocol family 16
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.073118] cpuidle: using governor ladder
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.073120] cpuidle: using governor menu
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.073122] PCCT header not found.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.073184] ACPI: bus type PCI registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.073186] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.073283] PCI: Using configuration type 1 for base access
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.074218] ACPI: Added _OSI(Module Device)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.074220] ACPI: Added _OSI(Processor Device)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.074220] ACPI: Added _OSI(3.0 _SCP Extensions)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.074221] ACPI: Added _OSI(Processor Aggregator Device)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.075109] ACPI: Interpreter enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.075117] ACPI: (supports S0 S5)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.075118] ACPI: Using IOAPIC for interrupt routing
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.075127] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.076896] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.076900] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.076904] acpi PNP0A03:00: _OSC failed (AE_NOT_FOUND); disabling ASPM
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.076909] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077155] acpiphp: Slot [3] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077170] acpiphp: Slot [4] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077184] acpiphp: Slot [5] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077198] acpiphp: Slot [6] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077212] acpiphp: Slot [7] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077226] acpiphp: Slot [8] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077239] acpiphp: Slot [9] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077254] acpiphp: Slot [10] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077268] acpiphp: Slot [11] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077281] acpiphp: Slot [12] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077295] acpiphp: Slot [13] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077308] acpiphp: Slot [14] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077322] acpiphp: Slot [15] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077337] acpiphp: Slot [16] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077351] acpiphp: Slot [17] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077364] acpiphp: Slot [18] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077378] acpiphp: Slot [19] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077391] acpiphp: Slot [20] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077405] acpiphp: Slot [21] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077419] acpiphp: Slot [22] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077433] acpiphp: Slot [23] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077447] acpiphp: Slot [24] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077460] acpiphp: Slot [25] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077474] acpiphp: Slot [26] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077487] acpiphp: Slot [27] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077501] acpiphp: Slot [28] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077515] acpiphp: Slot [29] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077529] acpiphp: Slot [30] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077543] acpiphp: Slot [31] registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077552] PCI host bridge to bus 0000:00
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077555] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077556] pci_bus 0000:00: root bus resource [io  0x0d00-0xadff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077557] pci_bus 0000:00: root bus resource [io  0xae0f-0xaeff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077558] pci_bus 0000:00: root bus resource [io  0xaf20-0xafdf window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077559] pci_bus 0000:00: root bus resource [io  0xafe4-0xffff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077560] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077562] pci_bus 0000:00: root bus resource [mem 0x20000000-0xfebfffff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077563] pci_bus 0000:00: root bus resource [bus 00-ff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077594] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.077914] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.078338] pci 0000:00:01.1: [8086:7010] type 00 class 0x010180
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.083473] pci 0000:00:01.1: reg 0x20: [io  0xc0c0-0xc0cf]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.085449] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.085451] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.085452] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.085453] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.085585] pci 0000:00:01.2: [8086:7020] type 00 class 0x0c0300
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.090556] pci 0000:00:01.2: reg 0x20: [io  0xc040-0xc05f]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.092771] pci 0000:00:01.3: [8086:7113] type 00 class 0x068000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.093149] pci 0000:00:01.3: quirk: [io  0x0600-0x063f] claimed by PIIX4 ACPI
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.093157] pci 0000:00:01.3: quirk: [io  0x0700-0x070f] claimed by PIIX4 SMB
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.093331] pci 0000:00:02.0: [1013:00b8] type 00 class 0x030000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.096106] pci 0000:00:02.0: reg 0x10: [mem 0xfc000000-0xfdffffff pref]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.098185] pci 0000:00:02.0: reg 0x14: [mem 0xfebd0000-0xfebd0fff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.108563] pci 0000:00:02.0: reg 0x30: [mem 0xfebc0000-0xfebcffff pref]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.108750] pci 0000:00:03.0: [1af4:1000] type 00 class 0x020000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.110732] pci 0000:00:03.0: reg 0x10: [io  0xc060-0xc07f]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.112610] pci 0000:00:03.0: reg 0x14: [mem 0xfebd1000-0xfebd1fff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.121977] pci 0000:00:03.0: reg 0x30: [mem 0xfeb80000-0xfebbffff pref]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.122213] pci 0000:00:04.0: [1af4:1003] type 00 class 0x078000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.124264] pci 0000:00:04.0: reg 0x10: [io  0xc080-0xc09f]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.126152] pci 0000:00:04.0: reg 0x14: [mem 0xfebd2000-0xfebd2fff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.135799] pci 0000:00:05.0: [1af4:1001] type 00 class 0x010000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.137828] pci 0000:00:05.0: reg 0x10: [io  0xc000-0xc03f]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.139758] pci 0000:00:05.0: reg 0x14: [mem 0xfebd3000-0xfebd3fff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.149534] pci 0000:00:06.0: [1af4:1002] type 00 class 0x00ff00
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.150549] pci 0000:00:06.0: reg 0x10: [io  0xc0a0-0xc0bf]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.156937] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 *10 11)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157018] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 *10 11)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157080] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 10 *11)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157141] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 10 *11)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157175] ACPI: PCI Interrupt Link [LNKS] (IRQs *9)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157429] ACPI: Enabled 16 GPEs in block 00 to 0F
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157575] vgaarb: setting as boot device: PCI:0000:00:02.0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157577] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157578] vgaarb: loaded
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157579] vgaarb: bridge control possible 0000:00:02.0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157775] SCSI subsystem initialized
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157822] libata version 3.00 loaded.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157840] ACPI: bus type USB registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157853] usbcore: registered new interface driver usbfs
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157859] usbcore: registered new interface driver hub
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157865] usbcore: registered new device driver usb
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157966] PCI: Using ACPI for IRQ routing
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.157968] PCI: pci_cache_line_size set to 64 bytes
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.158106] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.158107] e820: reserve RAM buffer [mem 0x1ffe0000-0x1fffffff]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.158211] NetLabel: Initializing
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.158212] NetLabel:  domain hash size = 128
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.158213] NetLabel:  protocols = UNLABELED CIPSOv4
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.158223] NetLabel:  unlabeled traffic allowed by default
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.158290] amd_nb: Cannot enumerate AMD northbridges
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.158300] clocksource: Switched to clocksource kvm-clock
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.163822] AppArmor: AppArmor Filesystem Enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.163881] pnp: PnP ACPI init
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.163934] pnp 00:00: Plug and Play ACPI device, IDs PNP0b00 (active)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.163961] pnp 00:01: Plug and Play ACPI device, IDs PNP0303 (active)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.163980] pnp 00:02: Plug and Play ACPI device, IDs PNP0f13 (active)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.164001] pnp 00:03: [dma 2]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.164012] pnp 00:03: Plug and Play ACPI device, IDs PNP0700 (active)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.164069] pnp 00:04: Plug and Play ACPI device, IDs PNP0501 (active)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.164220] pnp: PnP ACPI: found 5 devices
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169598] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169613] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169614] pci_bus 0000:00: resource 5 [io  0x0d00-0xadff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169615] pci_bus 0000:00: resource 6 [io  0xae0f-0xaeff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169616] pci_bus 0000:00: resource 7 [io  0xaf20-0xafdf window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169618] pci_bus 0000:00: resource 8 [io  0xafe4-0xffff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169619] pci_bus 0000:00: resource 9 [mem 0x000a0000-0x000bffff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169620] pci_bus 0000:00: resource 10 [mem 0x20000000-0xfebfffff window]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169652] NET: Registered protocol family 2
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169809] TCP established hash table entries: 4096 (order: 3, 32768 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169816] TCP bind hash table entries: 4096 (order: 4, 65536 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169826] TCP: Hash tables configured (established 4096 bind 4096)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169844] UDP hash table entries: 256 (order: 1, 8192 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169847] UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169872] NET: Registered protocol family 1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169882] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169895] pci 0000:00:01.0: PIIX3: Enabling Passive Release
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.169911] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.187361] ACPI: PCI Interrupt Link [LNKD] enabled at IRQ 11
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.205139] pci 0000:00:02.0: Video device with shadowed ROM
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.205177] PCI: CLS 0 bytes, default 64
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.205234] Unpacking initramfs...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.690799] Freeing initrd memory: 33396K
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.690993] Scanning for low memory corruption every 60 seconds
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.691261] audit: initializing netlink subsys (disabled)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.691276] audit: type=2000 audit(1550207177.105:1): initialized
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.691527] Initialise system trusted keyring
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.691606] HugeTLB registered 1 GB page size, pre-allocated 0 pages
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.691607] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.692610] zbud: loaded
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.692782] VFS: Disk quotas dquot_6.6.0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.692806] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693015] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693187] fuse init (API version 7.23)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693284] Key type big_key registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693303] Allocating IMA MOK and blacklist keyrings.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693477] Key type asymmetric registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693480] Asymmetric key parser 'x509' registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693507] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693524] io scheduler noop registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693527] io scheduler deadline registered (default)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693548] io scheduler cfq registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693617] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693621] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693644] efifb: probing for efifb
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693655] efifb: framebuffer at 0xfc000000, mapped to 0xffffc90000200000, using 1408k, total 1408k
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693656] efifb: mode is 800x600x24, linelength=2400, pages=1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693657] efifb: scrolling: redraw
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.693658] efifb: Truecolor: size=0:8:8:8, shift=0:16:8:0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.695655] Console: switching to colour frame buffer device 100x37
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.697059] fb0: EFI VGA frame buffer device
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.697074] intel_idle: does not run on family 6 model 85
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.697136] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.697140] ACPI: Power Button [PWRF]
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.697877] GHES: HEST is not enabled!
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.715621] ACPI: PCI Interrupt Link [LNKC] enabled at IRQ 10
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.715664] virtio-pci 0000:00:03.0: virtio_pci: leaving for legacy driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.734150] virtio-pci 0000:00:04.0: virtio_pci: leaving for legacy driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.752572] ACPI: PCI Interrupt Link [LNKA] enabled at IRQ 10
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.752613] virtio-pci 0000:00:05.0: virtio_pci: leaving for legacy driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.770326] ACPI: PCI Interrupt Link [LNKB] enabled at IRQ 11
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.770353] virtio-pci 0000:00:06.0: virtio_pci: leaving for legacy driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.771567] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.793867] 00:04: ttyS0 at I/O 0x3f8 (irq = 4, base_baud = 115200) is a 16550A
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.798317] Linux agpgart interface v0.103
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.799260] loop: module loaded
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.800280]  vda: vda1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.800466] ata_piix 0000:00:01.1: version 2.13
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.801801] scsi host0: ata_piix
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.801854] scsi host1: ata_piix
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.801878] ata1: PATA max MWDMA2 cmd 0x1f0 ctl 0x3f6 bmdma 0xc0c0 irq 14
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.801879] ata2: PATA max MWDMA2 cmd 0x170 ctl 0x376 bmdma 0xc0c8 irq 15
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.801945] libphy: Fixed MDIO Bus: probed
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.801949] tun: Universal TUN/TAP device driver, 1.6
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.801949] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.803197] PPP generic driver version 2.4.2
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.803251] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.803256] ehci-pci: EHCI PCI platform driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.803264] ehci-platform: EHCI generic platform driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.803273] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.803278] ohci-pci: OHCI PCI platform driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.803285] ohci-platform: OHCI generic platform driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.803291] uhci_hcd: USB Universal Host Controller Interface driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822239] uhci_hcd 0000:00:01.2: UHCI Host Controller
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822248] uhci_hcd 0000:00:01.2: new USB bus registered, assigned bus number 1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822266] uhci_hcd 0000:00:01.2: detected 2 ports
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822322] uhci_hcd 0000:00:01.2: irq 11, io base 0x0000c040
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822393] usb usb1: New USB device found, idVendor=1d6b, idProduct=0001
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822394] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822395] usb usb1: Product: UHCI Host Controller
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822396] usb usb1: Manufacturer: Linux 4.4.0-105-generic uhci_hcd
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822398] usb usb1: SerialNumber: 0000:00:01.2
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822489] hub 1-0:1.0: USB hub found
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822494] hub 1-0:1.0: 2 ports detected
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.822627] i8042: PNP: PS/2 Controller [PNP0303:KBD,PNP0f13:MOU] at 0x60,0x64 irq 1,12
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.823262] serio: i8042 KBD port at 0x60,0x64 irq 1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.823265] serio: i8042 AUX port at 0x60,0x64 irq 12
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.823354] mousedev: PS/2 mouse device common for all mice
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.823586] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.823822] rtc_cmos 00:00: RTC can wake from S4
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824037] rtc_cmos 00:00: rtc core: registered rtc_cmos as rtc0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824105] rtc_cmos 00:00: alarms up to one day, 114 bytes nvram
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824110] i2c /dev entries driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824157] device-mapper: uevent: version 1.0.3
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824199] device-mapper: ioctl: 4.34.0-ioctl (2015-10-28) initialised: dm-devel@redhat.com
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824215] ledtrig-cpu: registered to indicate activity on CPUs
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824453] NET: Registered protocol family 10
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824604] NET: Registered protocol family 17
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824619] Key type dns_resolver registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824730] microcode: CPU0 sig=0x50654, pf=0x1, revision=0x1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824748] microcode: Microcode Update Driver: v2.01 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824860] registered taskstats version 1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.824879] Loading compiled-in X.509 certificates
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.825487] Loaded X.509 cert 'Build time autogenerated kernel key: 9e10e78f354e7f440ba67234357caa0992de1eeb'
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.825506] zswap: loaded using pool lzo/zbud
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.826920] Key type trusted registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.828851] Key type encrypted registered
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.828858] AppArmor: AppArmor sha1 policy hashing enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.828862] ima: No TPM chip found, activating TPM-bypass!
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.828876] evm: HMAC attrs: 0x1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.829100]   Magic number: 7:544:129
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.829135] acpi device:04: hash matches
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.829204] rtc_cmos 00:00: setting system clock to 2019-02-15 13:06:16 UTC (1550235976)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.829255] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.829256] EDD information not available.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.829294] PM: Hibernation image not present or could not be loaded.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.966746] ata2.01: NODEV after polling detection
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.967002] ata2.00: ATAPI: QEMU DVD-ROM, 2.1.2, max UDMA/100
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.967408] ata2.00: configured for MWDMA2
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.967878] scsi 1:0:0:0: CD-ROM            QEMU     QEMU DVD-ROM     2.1. PQ: 0 ANSI: 5
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.974793] sr 1:0:0:0: [sr0] scsi3-mmc drive: 4x/4x cd/rw xa/form2 tray
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.974796] cdrom: Uniform CD-ROM driver Revision: 3.20
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.974893] sr 1:0:0:0: Attached scsi CD-ROM sr0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.975136] sr 1:0:0:0: Attached scsi generic sg0 type 5
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.976362] Freeing unused kernel memory: 1488K
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.976363] Write protecting the kernel read-only data: 14336k
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.977089] Freeing unused kernel memory: 1748K
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.977304] Freeing unused kernel memory: 108K
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.985110] random: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.985129] random: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.986724] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.986793] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.986803] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.990014] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.990030] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.990035] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.990628] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    0.990641] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.049223] [drm] Initialized drm 1.1.0 20060810
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.058888] input: VirtualPS/2 VMware VMMouse as /devices/platform/i8042/serio1/input/input4
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.059104] input: VirtualPS/2 VMware VMMouse as /devices/platform/i8042/serio1/input/input3
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.079101] FDC 0 is a S82078B
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.081371] checking generic (fc000000 160000) vs hw (fc000000 2000000)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.081373] fb: switching to cirrusdrmfb from EFI VGA
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.081394] Console: switching to colour dummy device 80x25
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088506] [TTM] Zone  kernel: Available graphics memory: 249970 kiB
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088508] [TTM] Initializing pool allocator
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088511] [TTM] Initializing DMA pool allocator
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088716] [drm] fb mappable at 0xFC000000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088717] [drm] vram aper at 0xFC000000
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088717] [drm] size 33554432
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088718] [drm] fb depth is 24
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088719] [drm]    pitch is 3072
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.088750] fbcon: cirrusdrmfb (fb0) is primary device
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.097922] Console: switching to colour frame buffer device 128x48
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.113018] cirrus 0000:00:02.0: fb0: cirrusdrmfb frame buffer device
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.113022] [drm] Initialized cirrus 1.0.0 20110418 for 0000:00:02.0 on minor 0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.134332] usb 1-1: new full-speed USB device number 2 using uhci_hcd
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.294858] usb 1-1: New USB device found, idVendor=0627, idProduct=0001
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.294861] usb 1-1: New USB device strings: Mfr=1, Product=3, SerialNumber=5
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.294862] usb 1-1: Product: QEMU USB Tablet
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.294863] usb 1-1: Manufacturer: QEMU
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.294865] usb 1-1: SerialNumber: 42
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.302757] hidraw: raw HID events driver (C) Jiri Kosina
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.308431] usbcore: registered new interface driver usbhid
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.308433] usbhid: USB HID core driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.310352] input: QEMU QEMU USB Tablet as /devices/pci0000:00/0000:00:01.2/usb1/1-1/1-1:1.0/0003:0627:0001.0001/input/input5
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.310531] hid-generic 0003:0627:0001.0001: input,hidraw0: USB HID v0.01 Pointer [QEMU QEMU USB Tablet] on usb-0000:00:01.2-1/input0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.466049] EXT4-fs (vda1): mounted filesystem with ordered data mode. Opts: (null)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.690424] tsc: Refined TSC clocksource calibration: 2499.915 MHz
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    1.690427] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x2408e96b381, max_idle_ns: 440795288557 ns
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    3.361792] EXT4-fs (vda1): re-mounted. Opts: errors=remount-ro
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.276239] piix4_smbus 0000:00:01.3: SMBus Host Controller at 0x700, revision 0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.440561] audit: type=1400 audit(1550207180.106:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=382 comm="apparmor_parser"
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.440568] audit: type=1400 audit(1550207180.106:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=382 comm="apparmor_parser"
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.440572] audit: type=1400 audit(1550207180.106:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=382 comm="apparmor_parser"
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.440576] audit: type=1400 audit(1550207180.106:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=382 comm="apparmor_parser"
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.466285] audit: type=1400 audit(1550207180.130:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/mysqld" pid=424 comm="apparmor_parser"
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.468402] ppdev: user-space parallel port driver
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.506379] AVX2 version of gcm_enc/dec engaged.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.506381] AES CTR mode by8 optimization enabled
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.555688] EDAC MC: Ver: 3.0.0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.585259] audit: type=1400 audit(1550207180.250:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/ntpd" pid=443 comm="apparmor_parser"
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    4.610719] audit: type=1400 audit(1550207180.278:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/tcpdump" pid=468 comm="apparmor_parser"
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started System Logging Service.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ irqbalance[499]:  * Starting SMP IRQ Balancer: irqbalance
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started LSB: Start/stop sysstat's sadc.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Login Service.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started LSB: Set the CPU Frequency Scaling governor to "ondemand".
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: Listening on LPF/eth0/00:16:3e:04:03:46
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: Listening on LPF/eth0/00:16:3e:04:03:46
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: Sending on   LPF/eth0/00:16:3e:04:03:46
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: Sending on   Socket/fallback
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: DHCPREQUEST of 172.31.155.66 on eth0 to 255.255.255.255 port 67 (xid=0x39e5dd1a)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: Sending on   LPF/eth0/00:16:3e:04:03:46
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: Sending on   Socket/fallback
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: DHCPREQUEST of 172.31.155.66 on eth0 to 255.255.255.255 port 67 (xid=0x39e5dd1a)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: DHCPACK of 172.31.155.66 from 172.31.159.253
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: DHCPACK of 172.31.155.66 from 172.31.159.253
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ifup[534]: /sbin/ifup: waiting for lock on /run/network/ifstate.eth0
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ dhclient[498]: bound to 172.31.155.66 -- renewal in 136232393 seconds.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started agentwatch.service.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ sh[473]: bound to 172.31.155.66 -- renewal in 136232393 seconds.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started LSB: Record successful boot for GRUB.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Raise network interfaces.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Network.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting ECS enable networking multiqueue...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting cloud-init upgrade service...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ irqbalance[499]:    ...done.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Network is Online.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting LSB: Start NTP daemon...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting /etc/rc.local Compatibility...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started LSB: daemon to balance interrupts for SMP systems.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started /etc/rc.local Compatibility.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Terminate Plymouth Boot Screen...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Hold until boot process finishes up...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Hold until boot process finishes up.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ntp[692]:  * Starting NTP server ntpd
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Getty on tty1.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Set console scheme...
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Serial Getty on ttyS0.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Login Prompts.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Terminate Plymouth Boot Screen.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ kernel: [    5.154060] random: nonblocking pool is initialized
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Set console scheme.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started ECS enable networking multiqueue.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ accounts-daemon[518]: started daemon version 0.6.40
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Accounts Service.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ntpd[727]: ntpd 4.2.8p4@1.3265-o Fri Jul  6 20:10:51 UTC 2018 (1): Starting
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ntpd[727]: Command line: /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 108:114
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ntp[692]:    ...done.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started LSB: Start NTP daemon.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ntpd[770]: proto: precision = 0.090 usec (-23)
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[688]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ntpd[770]: restrict default: KOD does nothing without LIMITED.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ntpd[770]: restrict ::: KOD does nothing without LIMITED.
+Feb 15 13:06:20 iZj6c5pz734d3f5cfcdrmhZ ntpd[770]: switching logging to file /var/log/ntp.log
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[778]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ aegis[482]: Aegis is running
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started LSB: aegis update..
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ postgresql@9.5-main[516]: Removed stale pid file.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[806]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[818]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 13:06:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[830]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Start request repeated too quickly.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'start-limit-hit'.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ postgresql@9.5-main[516]: The PostgreSQL server failed to start. Please check the log output:
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ postgresql@9.5-main[516]: 2019-02-15 13:06:22 CST [827-1] LOG:  could not bind IPv6 socket: Cannot assign requested address
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ postgresql@9.5-main[516]: 2019-02-15 13:06:22 CST [827-2] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ postgresql@9.5-main[516]: 2019-02-15 13:06:22 CST [827-3] LOG:  invalid authentication method "postgres"
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ postgresql@9.5-main[516]: 2019-02-15 13:06:22 CST [827-4] CONTEXT:  line 85 of configuration file "/etc/postgresql/9.5/main/pg_hba.conf"
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ postgresql@9.5-main[516]: 2019-02-15 13:06:22 CST [827-5] FATAL:  could not load pg_hba.conf
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: postgresql@9.5-main.service: Control process exited, code=exited status=1
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start PostgreSQL Cluster 9.5-main.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: postgresql@9.5-main.service: Unit entered failed state.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: postgresql@9.5-main.service: Failed with result 'exit-code'.
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting PostgreSQL RDBMS...
+Feb 15 13:06:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started PostgreSQL RDBMS.
+Feb 15 13:06:23 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: cloud-init-upgrade.service: Main process exited, code=exited, status=2/INVALIDARGUMENT
+Feb 15 13:06:23 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start cloud-init upgrade service.
+Feb 15 13:06:23 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: cloud-init-upgrade.service: Unit entered failed state.
+Feb 15 13:06:23 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: cloud-init-upgrade.service: Failed with result 'exit-code'.
+Feb 15 13:06:23 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Initial cloud-init job (pre-networking)...
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[846]: Cloud-init v. 0.7.6a4 running 'init-local' at Fri, 15 Feb 2019 05:06:23 +0000. Up 8.27 seconds.
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Initial cloud-init job (pre-networking).
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Initial cloud-init job (metadata service crawler)...
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: Cloud-init v. 0.7.6a4 running 'init' at Fri, 15 Feb 2019 05:06:24 +0000. Up 8.53 seconds.
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: +++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: +--------+------+---------------+---------------+-------------------+
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: | Device |  Up  |    Address    |      Mask     |     Hw-Address    |
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: +--------+------+---------------+---------------+-------------------+
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: |   lo   | True |   127.0.0.1   |   255.0.0.0   |         .         |
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: |  eth0  | True | 172.31.155.66 | 255.255.240.0 | 00:16:3e:04:03:46 |
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: +--------+------+---------------+---------------+-------------------+
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: +++++++++++++++++++++++++++++++++Route info++++++++++++++++++++++++++++++++++
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: +-------+--------------+----------------+---------------+-----------+-------+
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: | Route | Destination  |    Gateway     |    Genmask    | Interface | Flags |
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: +-------+--------------+----------------+---------------+-----------+-------+
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: |   0   |   0.0.0.0    | 172.31.159.253 |    0.0.0.0    |    eth0   |   UG  |
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: |   1   | 172.31.144.0 |    0.0.0.0     | 255.255.240.0 |    eth0   |   U   |
+Feb 15 13:06:24 iZj6c5pz734d3f5cfcdrmhZ cloud-init[852]: ci-info: +-------+--------------+----------------+---------------+-----------+-------+
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Initial cloud-init job (metadata service crawler).
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting OpenBSD Secure Shell server...
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Cloud-config availability.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Apply the settings specified in cloud-config...
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started OpenBSD Secure Shell server.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ cloud-init[867]: Cloud-init v. 0.7.6a4 running 'modules:config' at Fri, 15 Feb 2019 05:06:25 +0000. Up 9.64 seconds.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Apply the settings specified in cloud-config.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Execute cloud user/final scripts...
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ cloud-init[877]: Cloud-init v. 0.7.6a4 running 'modules:final' at Fri, 15 Feb 2019 05:06:25 +0000. Up 9.96 seconds.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ cloud-init[877]: Cloud-init v. 0.7.6a4 finished at Fri, 15 Feb 2019 05:06:25 +0000. Datasource DataSourceAliYun.  Up 10.05 seconds
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Execute cloud user/final scripts.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Multi-User System.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reached target Graphical Interface.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Update UTMP about System Runlevel Changes.
+Feb 15 13:06:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Startup finished in 1.911s (kernel) + 8.200s (userspace) = 10.111s.
+Feb 15 13:06:28 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Time has been changed
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Created slice User Slice of root.
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting User Manager for UID 0...
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 1 of user root.
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Reached target Timers.
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Reached target Sockets.
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Reached target Paths.
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Reached target Basic System.
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Reached target Default.
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Startup finished in 93ms.
+Feb 15 13:09:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started User Manager for UID 0.
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopping User Manager for UID 0...
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Reached target Shutdown.
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Stopped target Default.
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Stopped target Basic System.
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Stopped target Paths.
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Stopped target Timers.
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Starting Exit the Session...
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Stopped target Sockets.
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[920]: Received SIGRTMIN+24 from PID 952 (kill).
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped User Manager for UID 0.
+Feb 15 13:09:35 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Removed slice User Slice of root.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Created slice User Slice of root.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 2 of user root.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting User Manager for UID 0...
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[961]: Reached target Sockets.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[961]: Reached target Timers.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[961]: Reached target Paths.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[961]: Reached target Basic System.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[961]: Reached target Default.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[961]: Startup finished in 15ms.
+Feb 15 13:10:01 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started User Manager for UID 0.
+Feb 15 13:13:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 3 of user root.
+Feb 15 13:14:04 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 4 of user root.
+Feb 15 13:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1026]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 13:15:28 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 6 of user root.
+Feb 15 13:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1051]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 13:17:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 8 of user root.
+Feb 15 13:19:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 9 of user root.
+Feb 15 13:21:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 15 13:21:25 iZj6c5pz734d3f5cfcdrmhZ systemd-tmpfiles[1106]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 15 13:21:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Cleanup of Temporary Directories.
+Feb 15 13:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1114]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 13:34:14 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 11 of user root.
+Feb 15 13:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1146]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 13:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1151]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 13:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1155]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 14:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1161]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 14:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1166]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 14:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1169]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 14:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1173]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 14:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1178]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 14:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1186]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 14:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1192]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 15:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1196]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 15:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1201]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 15:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1204]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 15:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1208]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 15:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1215]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 15:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1221]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 15:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1227]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 16:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1231]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 16:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1238]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 16:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1241]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 16:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1246]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 16:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1251]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 16:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1255]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 16:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1259]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 16:55:36 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 36 of user root.
+Feb 15 17:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1284]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 17:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1289]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 17:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1293]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 17:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1298]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 17:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1305]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 17:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1311]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 17:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1315]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 18:03:03 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 44 of user root.
+Feb 15 18:03:44 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 45 of user root.
+Feb 15 18:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1362]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 18:05:22 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 47 of user root.
+Feb 15 18:12:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 48 of user root.
+Feb 15 18:13:12 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 49 of user root.
+Feb 15 18:14:50 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 50 of user root.
+Feb 15 18:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1455]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 18:15:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 52 of user root.
+Feb 15 18:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1481]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 18:21:24 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 54 of user root.
+Feb 15 18:24:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 55 of user root.
+Feb 15 18:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1532]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 18:26:53 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 57 of user root.
+Feb 15 18:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1563]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 18:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1567]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 18:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1575]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 19:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1579]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 19:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1586]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 19:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1590]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 19:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1598]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 19:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1602]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 19:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1608]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 19:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1612]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 20:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1616]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 20:11:01 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 69 of user root.
+Feb 15 20:14:07 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 70 of user root.
+Feb 15 20:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1664]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 20:16:17 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 72 of user root.
+Feb 15 20:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1694]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 20:19:35 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 74 of user root.
+Feb 15 20:20:05 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 75 of user root.
+Feb 15 20:21:18 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 76 of user root.
+Feb 15 20:21:30 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 77 of user root.
+Feb 15 20:23:14 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 78 of user root.
+Feb 15 20:23:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 79 of user root.
+Feb 15 20:23:41 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 80 of user root.
+Feb 15 20:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[1891]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 20:26:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 82 of user root.
+Feb 15 20:26:52 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 83 of user root.
+Feb 15 20:26:58 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 84 of user root.
+Feb 15 20:27:33 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 85 of user root.
+Feb 15 20:27:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 86 of user root.
+Feb 15 20:29:07 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 87 of user root.
+Feb 15 20:29:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 88 of user root.
+Feb 15 20:32:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 89 of user root.
+Feb 15 20:32:25 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 90 of user root.
+Feb 15 20:34:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 91 of user root.
+Feb 15 20:34:47 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 92 of user root.
+Feb 15 20:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[2180]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 20:38:30 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 94 of user root.
+Feb 15 20:38:30 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 95 of user root.
+Feb 15 20:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[2235]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 20:45:58 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 97 of user root.
+Feb 15 20:45:58 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 98 of user root.
+Feb 15 20:51:50 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 99 of user root.
+Feb 15 20:51:57 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 100 of user root.
+Feb 15 20:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[2599]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 20:55:20 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 102 of user root.
+Feb 15 20:56:07 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 103 of user root.
+Feb 15 20:57:33 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 104 of user root.
+Feb 15 20:58:02 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 105 of user root.
+Feb 15 21:01:03 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 106 of user root.
+Feb 15 21:01:11 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 107 of user root.
+Feb 15 21:02:14 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 108 of user root.
+Feb 15 21:02:21 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 109 of user root.
+Feb 15 21:03:19 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 110 of user root.
+Feb 15 21:03:23 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 111 of user root.
+Feb 15 21:03:53 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 112 of user root.
+Feb 15 21:03:57 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 113 of user root.
+Feb 15 21:04:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 114 of user root.
+Feb 15 21:04:36 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 115 of user root.
+Feb 15 21:05:02 iZj6c5pz734d3f5cfcdrmhZ CRON[3189]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 21:05:44 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 117 of user root.
+Feb 15 21:05:52 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 118 of user root.
+Feb 15 21:12:43 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 119 of user root.
+Feb 15 21:14:23 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 120 of user root.
+Feb 15 21:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[3323]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 21:15:04 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 122 of user root.
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032875] AliYunDun invoked oom-killer: gfp_mask=0x24201ca, order=0, oom_score_adj=0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032878] AliYunDun cpuset=/ mems_allowed=0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032883] CPU: 0 PID: 901 Comm: AliYunDun Not tainted 4.4.0-105-generic #128-Ubuntu
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032885] Hardware name: Alibaba Cloud Alibaba Cloud ECS, BIOS rel-1.7.5-0-ge51488c-20140602_164612-nilsson.home.kraxel.org 04/01/2014
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032886]  0000000000000286 26cd21e58e0c9a51 ffff88001bb2b9d8 ffffffff813fabe3
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032889]  ffff88001bb2bb90 ffff88001b0d1540 ffff88001bb2ba48 ffffffff8120cb7e
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032891]  ffffffff81cd792f 0000000000000000 ffffffff81e67920 0000000000000206
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032893] Call Trace:
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032900]  [<ffffffff813fabe3>] dump_stack+0x63/0x90
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032905]  [<ffffffff8120cb7e>] dump_header+0x5a/0x1c5
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032909]  [<ffffffff81193562>] oom_kill_process+0x202/0x3c0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032911]  [<ffffffff81193989>] out_of_memory+0x219/0x460
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032914]  [<ffffffff81199995>] __alloc_pages_slowpath.constprop.88+0x965/0xb00
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032916]  [<ffffffff81199db6>] __alloc_pages_nodemask+0x286/0x2a0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032921]  [<ffffffff811e38bc>] alloc_pages_current+0x8c/0x110
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032923]  [<ffffffff8118fb2b>] __page_cache_alloc+0xab/0xc0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032925]  [<ffffffff8119203a>] filemap_fault+0x14a/0x3f0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032930]  [<ffffffff812a4536>] ext4_filemap_fault+0x36/0x50
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032934]  [<ffffffff811befd0>] __do_fault+0x50/0xe0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032936]  [<ffffffff811c2af2>] handle_mm_fault+0xfa2/0x1820
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032940]  [<ffffffff810efc69>] ? hrtimer_try_to_cancel+0x29/0x130
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032946]  [<ffffffff81842a66>] ? do_nanosleep+0x96/0xf0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032950]  [<ffffffff8106b577>] __do_page_fault+0x197/0x400
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032952]  [<ffffffff8106b847>] trace_do_page_fault+0x37/0xe0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032955]  [<ffffffff81063f29>] do_async_page_fault+0x19/0x70
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032957]  [<ffffffff81845a28>] async_page_fault+0x28/0x30
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032959] Mem-Info:
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032962] active_anon:111053 inactive_anon:550 isolated_anon:0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032962]  active_file:220 inactive_file:311 isolated_file:32
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032962]  unevictable:0 dirty:0 writeback:0 unstable:0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032962]  slab_reclaimable:2507 slab_unreclaimable:3163
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032962]  mapped:337 shmem:745 pagetables:2034 bounce:0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032962]  free:1601 free_pcp:126 free_cma:0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032964] Node 0 DMA free:1832kB min:92kB low:112kB high:136kB active_anon:12136kB inactive_anon:76kB active_file:88kB inactive_file:172kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:15992kB managed:15908kB mlocked:0kB dirty:0kB writeback:0kB mapped:72kB shmem:112kB slab_reclaimable:340kB slab_unreclaimable:492kB kernel_stack:112kB pagetables:272kB unstable:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB writeback_tmp:0kB pages_scanned:1584 all_unreclaimable? yes
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032969] lowmem_reserve[]: 0 436 436 436 436
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032971] Node 0 DMA32 free:4572kB min:2624kB low:3280kB high:3936kB active_anon:432076kB inactive_anon:2124kB active_file:792kB inactive_file:1072kB unevictable:0kB isolated(anon):0kB isolated(file):128kB present:507776kB managed:484032kB mlocked:0kB dirty:0kB writeback:0kB mapped:1276kB shmem:2868kB slab_reclaimable:9688kB slab_unreclaimable:12160kB kernel_stack:2416kB pagetables:7864kB unstable:0kB bounce:0kB free_pcp:504kB local_pcp:504kB free_cma:0kB writeback_tmp:0kB pages_scanned:11224 all_unreclaimable? yes
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032975] lowmem_reserve[]: 0 0 0 0 0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032977] Node 0 DMA: 0*4kB 15*8kB (M) 7*16kB (UM) 6*32kB (UME) 6*64kB (UE) 6*128kB (UE) 1*256kB (M) 0*512kB 0*1024kB 0*2048kB 0*4096kB = 1832kB
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032984] Node 0 DMA32: 43*4kB (UMEH) 48*8kB (EH) 95*16kB (UMEH) 30*32kB (UMEH) 16*64kB (UMEH) 2*128kB (UE) 1*256kB (H) 0*512kB 0*1024kB 0*2048kB 0*4096kB = 4572kB
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032992] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=1048576kB
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032993] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=2048kB
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032994] 1313 total pagecache pages
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032996] 0 pages in swap cache
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032997] Swap cache stats: add 0, delete 0, find 0/0
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032997] Free swap  = 0kB
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032998] Total swap = 0kB
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.032999] 130942 pages RAM
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033000] 0 pages HighMem/MovableOnly
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033000] 5957 pages reserved
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033001] 0 pages cma reserved
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033002] 0 pages hwpoisoned
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033002] [ pid ]   uid  tgid total_vm      rss nr_ptes nr_pmds swapents oom_score_adj name
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033008] [  209]     0   209     8817       78      21       4        0             0 systemd-journal
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033010] [  268]     0   268    11189      319      24       3        0         -1000 systemd-udevd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033012] [  480]     0   480     7251       69      20       3        0             0 cron
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033014] [  481]   104   481    65156      178      29       3        0             0 rsyslogd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033015] [  484]     0   484     6510       49      18       3        0             0 atd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033017] [  502]   106   502    10724      118      26       3        0          -900 dbus-daemon
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033018] [  514]     0   514     7155       79      18       3        0             0 systemd-logind
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033020] [  518]     0   518    68936      164      38       3        0             0 accounts-daemon
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033022] [  596]     0   596     8085      155      20       3        0             0 AliYunDunUpdate
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033023] [  630]     0   630    16345      102      14       2        0             0 aliyun-service
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033025] [  631]     0   631     3998      211      12       3        0             0 dhclient
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033026] [  720]     0   720     3983       34      13       3        0             0 agetty
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033027] [  732]     0   732     3937       34      13       3        0             0 agetty
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033029] [  770]   108   770    27508      164      26       3        0             0 ntpd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033030] [  872]     0   872    16377      179      36       3        0         -1000 sshd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033032] [  895]     0   895    32626      466      61       4        0             0 AliYunDun
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033034] [  961]     0   961     9207      187      21       3        0             0 systemd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033035] [  963]     0   963    15261      445      32       4        0             0 (sd-pam)
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033037] [  986]     0   986    23207      249      48       3        0             0 sshd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033038] [ 1004]     0  1004     3219       56      12       3        0             0 sftp-server
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033040] [ 1423]     0  1423     5247       66      15       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033041] [ 1428]     0  1428    27875     5911      58       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033042] [ 1475]     0  1475     5247       66      16       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033044] [ 1484]     0  1484    27884     5911      58       4        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033045] [ 1528]     0  1528     5247       68      16       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033047] [ 1534]     0  1534    27875     5911      59       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033048] [ 1794]     0  1794     5247       67      16       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033050] [ 1797]     0  1797    27885     5913      57       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033051] [ 1841]     0  1841     5247       66      15       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033053] [ 1883]     0  1883    27875     5912      59       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033054] [ 1915]     0  1915    34590     4859      37       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033056] [ 1919]     0  1919    34589     4858      37       4        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033057] [ 1920]     0  1920    34590     4859      37       4        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033058] [ 1921]     0  1921    34590     4859      37       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033059] [ 1922]     0  1922    34590     4858      37       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033061] [ 1971]     0  1971     5247       67      15       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033062] [ 1974]     0  1974    16061     4775      35       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033063] [ 1976]     0  1976    34590     4859      38       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033065] [ 2066]     0  2066     5247       65      15       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033066] [ 2088]     0  2088    27959     5934      58       4        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033067] [ 2090]     0  2090    46380     5986      59       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033069] [ 3134]     0  3134     5247       66      15       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033070] [ 3137]     0  3137    27885     5912      58       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033072] [ 3139]     0  3139    46772     6558      60       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033073] [ 3180]     0  3180     5247       66      16       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033074] [ 3183]     0  3183    27885     5912      56       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033076] [ 3185]     0  3185    46772     6557      62       3        0             0 python
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033077] [ 3283]     0  3283    23206      231      49       3        0             0 sshd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033078] [ 3302]     0  3302     3219       55      13       3        0             0 sftp-server
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033080] [ 3303]     0  3303    23206      232      48       3        0             0 sshd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033081] [ 3321]     0  3321     3219       44      12       3        0             0 sftp-server
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033083] [ 3325]     0  3325    23206      232      50       3        0             0 sshd
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033084] [ 3344]     0  3344     5247       67      16       3        0             0 bash
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033086] [ 3347]     0  3347    13174      114      31       3        0             0 sudo
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033087] [ 3348]     0  3348    10925      157      25       3        0             0 apt-get
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033089] [ 3352]   105  3352    10817       99      24       3        0             0 http
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033090] [ 3353]   105  3353    49520     2446      64       3        0             0 https
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033091] [ 3354]   105  3354    49520     2496      64       3        0             0 https
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033093] [ 3358]   105  3358    10258       94      24       3        0             0 gpgv
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033094] [ 3359]   105  3359    10258       96      22       3        0             0 gpgv
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033095] [ 3360]   105  3360     1125       17       8       3        0             0 apt-key
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033097] [ 3362]   105  3362     7963       42      17       3        0             0 apt-config
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033098] Out of memory: Kill process 3185 (python) score 51 or sacrifice child
+Feb 15 21:16:19 iZj6c5pz734d3f5cfcdrmhZ kernel: [29402.033930] Killed process 3185 (python) total-vm:187088kB, anon-rss:26228kB, file-rss:0kB
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827408] apt-get invoked oom-killer: gfp_mask=0x34200ca, order=0, oom_score_adj=0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827411] apt-get cpuset=/ mems_allowed=0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827417] CPU: 0 PID: 3348 Comm: apt-get Not tainted 4.4.0-105-generic #128-Ubuntu
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827418] Hardware name: Alibaba Cloud Alibaba Cloud ECS, BIOS rel-1.7.5-0-ge51488c-20140602_164612-nilsson.home.kraxel.org 04/01/2014
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827419]  0000000000000286 10c355db8390859f ffff88001b1f7880 ffffffff813fabe3
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827422]  ffff88001b1f7a38 ffff88001b0d5500 ffff88001b1f78f0 ffffffff8120cb7e
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827423]  ffffffff81cd792f 0000000000000000 ffffffff81e67920 0000000000000206
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827425] Call Trace:
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827433]  [<ffffffff813fabe3>] dump_stack+0x63/0x90
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827437]  [<ffffffff8120cb7e>] dump_header+0x5a/0x1c5
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827441]  [<ffffffff81193562>] oom_kill_process+0x202/0x3c0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827443]  [<ffffffff81193989>] out_of_memory+0x219/0x460
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827446]  [<ffffffff81199995>] __alloc_pages_slowpath.constprop.88+0x965/0xb00
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827448]  [<ffffffff81199db6>] __alloc_pages_nodemask+0x286/0x2a0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827453]  [<ffffffff811e38bc>] alloc_pages_current+0x8c/0x110
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827454]  [<ffffffff8118fb2b>] __page_cache_alloc+0xab/0xc0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827456]  [<ffffffff81190704>] pagecache_get_page+0x84/0x1c0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827457]  [<ffffffff81190866>] grab_cache_page_write_begin+0x26/0x40
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827462]  [<ffffffff812a237f>] ext4_da_write_begin+0xaf/0x340
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827464]  [<ffffffff8118fdde>] generic_perform_write+0xce/0x1c0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827465]  [<ffffffff81191b12>] __generic_file_write_iter+0x1a2/0x1e0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827467]  [<ffffffff81296752>] ext4_file_write_iter+0x102/0x480
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827472]  [<ffffffff812727af>] ? posix_acl_chmod+0x4f/0xe0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827474]  [<ffffffff812a3c15>] ? ext4_setattr+0x675/0x940
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827477]  [<ffffffff8120ff3b>] new_sync_write+0x9b/0xe0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827479]  [<ffffffff8120ffa6>] __vfs_write+0x26/0x40
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827481]  [<ffffffff81210929>] vfs_write+0xa9/0x1a0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827483]  [<ffffffff812115e5>] SyS_write+0x55/0xc0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827488]  [<ffffffff81843872>] entry_SYSCALL_64_fastpath+0x16/0x71
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827490] Mem-Info:
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827493] active_anon:107633 inactive_anon:549 isolated_anon:0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827493]  active_file:1145 inactive_file:3355 isolated_file:0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827493]  unevictable:0 dirty:0 writeback:741 unstable:0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827493]  slab_reclaimable:2531 slab_unreclaimable:3130
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827493]  mapped:964 shmem:738 pagetables:1706 bounce:0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827493]  free:1598 free_pcp:30 free_cma:0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827495] Node 0 DMA free:1828kB min:92kB low:112kB high:136kB active_anon:11636kB inactive_anon:76kB active_file:116kB inactive_file:656kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:15992kB managed:15908kB mlocked:0kB dirty:0kB writeback:652kB mapped:116kB shmem:100kB slab_reclaimable:364kB slab_unreclaimable:476kB kernel_stack:112kB pagetables:220kB unstable:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB writeback_tmp:0kB pages_scanned:4728 all_unreclaimable? yes
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827499] lowmem_reserve[]: 0 436 436 436 436
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827502] Node 0 DMA32 free:4564kB min:2624kB low:3280kB high:3936kB active_anon:418896kB inactive_anon:2120kB active_file:4464kB inactive_file:12764kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:507776kB managed:484032kB mlocked:0kB dirty:0kB writeback:2312kB mapped:3740kB shmem:2852kB slab_reclaimable:9760kB slab_unreclaimable:12044kB kernel_stack:2272kB pagetables:6604kB unstable:0kB bounce:0kB free_pcp:120kB local_pcp:120kB free_cma:0kB writeback_tmp:0kB pages_scanned:106336 all_unreclaimable? yes
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827505] lowmem_reserve[]: 0 0 0 0 0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827507] Node 0 DMA: 3*4kB (UM) 7*8kB (UME) 10*16kB (UME) 8*32kB (UME) 5*64kB (U) 6*128kB (UE) 1*256kB (M) 0*512kB 0*1024kB 0*2048kB 0*4096kB = 1828kB
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827514] Node 0 DMA32: 73*4kB (UMH) 76*8kB (UEH) 49*16kB (UMEH) 48*32kB (UMEH) 11*64kB (UMH) 3*128kB (UM) 1*256kB (H) 0*512kB 0*1024kB 0*2048kB 0*4096kB = 4564kB
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827522] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=1048576kB
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827523] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=2048kB
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827524] 5238 total pagecache pages
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827525] 0 pages in swap cache
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827526] Swap cache stats: add 0, delete 0, find 0/0
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827527] Free swap  = 0kB
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827527] Total swap = 0kB
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827528] 130942 pages RAM
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827529] 0 pages HighMem/MovableOnly
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827529] 5957 pages reserved
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827530] 0 pages cma reserved
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827531] 0 pages hwpoisoned
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827531] [ pid ]   uid  tgid total_vm      rss nr_ptes nr_pmds swapents oom_score_adj name
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827537] [  209]     0   209     8852       81      21       4        0             0 systemd-journal
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827539] [  268]     0   268    11189      319      24       3        0         -1000 systemd-udevd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827540] [  480]     0   480     7251       69      20       3        0             0 cron
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827542] [  481]   104   481    65156      178      29       3        0             0 rsyslogd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827544] [  484]     0   484     6510       49      18       3        0             0 atd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827545] [  502]   106   502    10724      118      26       3        0          -900 dbus-daemon
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827547] [  514]     0   514     7155       79      18       3        0             0 systemd-logind
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827548] [  518]     0   518    68936      164      38       3        0             0 accounts-daemon
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827549] [  596]     0   596     8085      155      20       3        0             0 AliYunDunUpdate
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827551] [  630]     0   630    16345      102      14       2        0             0 aliyun-service
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827552] [  631]     0   631     3998      211      12       3        0             0 dhclient
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827553] [  720]     0   720     3983       34      13       3        0             0 agetty
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827555] [  732]     0   732     3937       34      13       3        0             0 agetty
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827556] [  770]   108   770    27508      164      26       3        0             0 ntpd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827557] [  872]     0   872    16377      179      36       3        0         -1000 sshd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827559] [  895]     0   895    32626      461      61       4        0             0 AliYunDun
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827560] [  961]     0   961     9207      187      21       3        0             0 systemd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827561] [  963]     0   963    15261      445      32       4        0             0 (sd-pam)
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827563] [  986]     0   986    23207      249      48       3        0             0 sshd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827564] [ 1004]     0  1004     3219       56      12       3        0             0 sftp-server
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827565] [ 1423]     0  1423     5247       66      15       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827566] [ 1428]     0  1428    27875     5911      58       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827568] [ 1475]     0  1475     5247       66      16       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827569] [ 1484]     0  1484    27884     5911      58       4        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827570] [ 1528]     0  1528     5247       68      16       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827572] [ 1534]     0  1534    27875     5911      59       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827573] [ 1794]     0  1794     5247       67      16       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827574] [ 1797]     0  1797    27885     5913      57       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827576] [ 1841]     0  1841     5247       66      15       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827577] [ 1883]     0  1883    27875     5912      59       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827578] [ 1915]     0  1915    34590     4859      37       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827580] [ 1919]     0  1919    34589     4858      37       4        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827587] [ 1920]     0  1920    34590     4859      37       4        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827588] [ 1921]     0  1921    34590     4859      37       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827590] [ 1922]     0  1922    34590     4858      37       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827591] [ 1971]     0  1971     5247       67      15       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827592] [ 1974]     0  1974    16061     4775      35       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827594] [ 1976]     0  1976    34590     4859      38       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827595] [ 2066]     0  2066     5247       65      15       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827596] [ 2088]     0  2088    27959     5934      58       4        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827597] [ 2090]     0  2090    46380     6034      59       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827599] [ 3134]     0  3134     5247       66      15       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827600] [ 3137]     0  3137    27885     5912      58       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827601] [ 3139]     0  3139    46772     6593      60       3        0             0 python
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827603] [ 3283]     0  3283    23206      231      49       3        0             0 sshd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827604] [ 3302]     0  3302     3219       55      13       3        0             0 sftp-server
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827605] [ 3303]     0  3303    23206      232      48       3        0             0 sshd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827607] [ 3321]     0  3321     3219       44      12       3        0             0 sftp-server
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827608] [ 3325]     0  3325    23206      266      50       3        0             0 sshd
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827609] [ 3344]     0  3344     5247       67      16       3        0             0 bash
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827611] [ 3347]     0  3347    13174      114      31       3        0             0 sudo
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827612] [ 3348]     0  3348    25227    14964      54       3        0             0 apt-get
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.827613] Out of memory: Kill process 3348 (apt-get) score 116 or sacrifice child
+Feb 15 21:16:25 iZj6c5pz734d3f5cfcdrmhZ kernel: [29407.828400] Killed process 3348 (apt-get) total-vm:100908kB, anon-rss:57768kB, file-rss:2088kB
+Feb 15 21:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[3577]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351077] AliYunDun invoked oom-killer: gfp_mask=0x24201ca, order=0, oom_score_adj=0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351080] AliYunDun cpuset=/ mems_allowed=0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351086] CPU: 0 PID: 912 Comm: AliYunDun Not tainted 4.4.0-105-generic #128-Ubuntu
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351087] Hardware name: Alibaba Cloud Alibaba Cloud ECS, BIOS rel-1.7.5-0-ge51488c-20140602_164612-nilsson.home.kraxel.org 04/01/2014
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351089]  0000000000000286 67997ae5eb04f5e5 ffff8800174779d8 ffffffff813fabe3
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351091]  ffff880017477b90 ffff88001b0d5500 ffff880017477a48 ffffffff8120cb7e
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351093]  ffffffff81cd792f 0000000000000000 ffffffff81e67920 0000000000000206
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351094] Call Trace:
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351102]  [<ffffffff813fabe3>] dump_stack+0x63/0x90
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351107]  [<ffffffff8120cb7e>] dump_header+0x5a/0x1c5
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351110]  [<ffffffff81193562>] oom_kill_process+0x202/0x3c0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351112]  [<ffffffff81193989>] out_of_memory+0x219/0x460
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351115]  [<ffffffff81199995>] __alloc_pages_slowpath.constprop.88+0x965/0xb00
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351117]  [<ffffffff81199db6>] __alloc_pages_nodemask+0x286/0x2a0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351122]  [<ffffffff811e38bc>] alloc_pages_current+0x8c/0x110
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351124]  [<ffffffff8118fb2b>] __page_cache_alloc+0xab/0xc0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351125]  [<ffffffff8119203a>] filemap_fault+0x14a/0x3f0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351130]  [<ffffffff812a4536>] ext4_filemap_fault+0x36/0x50
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351134]  [<ffffffff811befd0>] __do_fault+0x50/0xe0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351136]  [<ffffffff811c2af2>] handle_mm_fault+0xfa2/0x1820
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351140]  [<ffffffff810efc69>] ? hrtimer_try_to_cancel+0x29/0x130
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351146]  [<ffffffff81842a66>] ? do_nanosleep+0x96/0xf0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351149]  [<ffffffff8106b577>] __do_page_fault+0x197/0x400
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351151]  [<ffffffff8106b847>] trace_do_page_fault+0x37/0xe0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351154]  [<ffffffff81063f29>] do_async_page_fault+0x19/0x70
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351156]  [<ffffffff81845a28>] async_page_fault+0x28/0x30
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351282] Mem-Info:
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351286] active_anon:108152 inactive_anon:549 isolated_anon:0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351286]  active_file:896 inactive_file:3023 isolated_file:0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351286]  unevictable:0 dirty:8 writeback:276 unstable:0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351286]  slab_reclaimable:2519 slab_unreclaimable:3112
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351286]  mapped:687 shmem:738 pagetables:1708 bounce:0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351286]  free:1613 free_pcp:120 free_cma:0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351288] Node 0 DMA free:1828kB min:92kB low:112kB high:136kB active_anon:11588kB inactive_anon:76kB active_file:124kB inactive_file:764kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:15992kB managed:15908kB mlocked:0kB dirty:8kB writeback:144kB mapped:104kB shmem:100kB slab_reclaimable:372kB slab_unreclaimable:508kB kernel_stack:112kB pagetables:224kB unstable:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB writeback_tmp:0kB pages_scanned:5808 all_unreclaimable? yes
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351292] lowmem_reserve[]: 0 436 436 436 436
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351295] Node 0 DMA32 free:4624kB min:2624kB low:3280kB high:3936kB active_anon:421020kB inactive_anon:2120kB active_file:3460kB inactive_file:11328kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:507776kB managed:484032kB mlocked:0kB dirty:24kB writeback:960kB mapped:2644kB shmem:2852kB slab_reclaimable:9704kB slab_unreclaimable:11940kB kernel_stack:2256kB pagetables:6608kB unstable:0kB bounce:0kB free_pcp:480kB local_pcp:480kB free_cma:0kB writeback_tmp:0kB pages_scanned:93928 all_unreclaimable? yes
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351298] lowmem_reserve[]: 0 0 0 0 0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351300] Node 0 DMA: 3*4kB (UME) 9*8kB (UME) 13*16kB (UM) 8*32kB (UME) 6*64kB (UE) 7*128kB (UME) 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 1828kB
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351307] Node 0 DMA32: 62*4kB (UMEH) 63*8kB (UMEH) 50*16kB (UEH) 66*32kB (UMEH) 9*64kB (UEH) 1*128kB (E) 1*256kB (H) 0*512kB 0*1024kB 0*2048kB 0*4096kB = 4624kB
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351314] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=1048576kB
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351315] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=2048kB
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351316] 4658 total pagecache pages
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351317] 0 pages in swap cache
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351318] Swap cache stats: add 0, delete 0, find 0/0
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351319] Free swap  = 0kB
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351320] Total swap = 0kB
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351320] 130942 pages RAM
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351321] 0 pages HighMem/MovableOnly
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351322] 5957 pages reserved
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351322] 0 pages cma reserved
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351323] 0 pages hwpoisoned
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351324] [ pid ]   uid  tgid total_vm      rss nr_ptes nr_pmds swapents oom_score_adj name
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351329] [  209]     0   209    10965      606      24       4        0             0 systemd-journal
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351331] [  268]     0   268    11189      319      24       3        0         -1000 systemd-udevd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351332] [  480]     0   480     7251       95      20       3        0             0 cron
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351334] [  481]   104   481    65156      198      29       3        0             0 rsyslogd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351336] [  484]     0   484     6510       49      18       3        0             0 atd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351337] [  502]   106   502    10724      118      26       3        0          -900 dbus-daemon
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351338] [  514]     0   514     7155       79      18       3        0             0 systemd-logind
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351340] [  518]     0   518    68936      164      38       3        0             0 accounts-daemon
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351342] [  596]     0   596     8085      155      20       3        0             0 AliYunDunUpdate
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351343] [  630]     0   630    16345      102      14       2        0             0 aliyun-service
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351344] [  631]     0   631     3998      211      12       3        0             0 dhclient
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351346] [  720]     0   720     3983       34      13       3        0             0 agetty
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351347] [  732]     0   732     3937       34      13       3        0             0 agetty
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351360] [  770]   108   770    27508      164      26       3        0             0 ntpd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351362] [  872]     0   872    16377      179      36       3        0         -1000 sshd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351363] [  895]     0   895    32621      456      61       4        0             0 AliYunDun
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351365] [  961]     0   961     9207      187      21       3        0             0 systemd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351366] [  963]     0   963    15261      445      32       4        0             0 (sd-pam)
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351368] [  986]     0   986    23207      249      48       3        0             0 sshd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351369] [ 1004]     0  1004     3219       56      12       3        0             0 sftp-server
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351371] [ 1423]     0  1423     5247       66      15       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351372] [ 1428]     0  1428    27875     5911      58       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351374] [ 1475]     0  1475     5247       66      16       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351375] [ 1484]     0  1484    27884     5911      58       4        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351377] [ 1528]     0  1528     5247       68      16       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351378] [ 1534]     0  1534    27875     5911      59       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351380] [ 1794]     0  1794     5247       67      16       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351381] [ 1797]     0  1797    27885     5913      57       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351382] [ 1841]     0  1841     5247       66      15       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351384] [ 1883]     0  1883    27875     5912      59       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351385] [ 1915]     0  1915    34590     4859      37       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351386] [ 1919]     0  1919    34589     4858      37       4        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351388] [ 1920]     0  1920    34590     4899      37       4        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351389] [ 1921]     0  1921    34590     4859      37       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351390] [ 1922]     0  1922    34590     4858      37       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351391] [ 1971]     0  1971     5247       67      15       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351393] [ 1974]     0  1974    16061     4775      35       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351394] [ 1976]     0  1976    34590     4859      38       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351395] [ 2066]     0  2066     5247       65      15       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351397] [ 2088]     0  2088    27959     5934      58       4        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351398] [ 2090]     0  2090    46380     5986      59       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351399] [ 3134]     0  3134     5247       66      15       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351401] [ 3137]     0  3137    27885     5912      58       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351402] [ 3139]     0  3139    46772     6558      60       3        0             0 python
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351403] [ 3283]     0  3283    23206      231      49       3        0             0 sshd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351405] [ 3302]     0  3302     3219       55      13       3        0             0 sftp-server
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351406] [ 3303]     0  3303    23206      232      48       3        0             0 sshd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351408] [ 3321]     0  3321     3219       44      12       3        0             0 sftp-server
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351409] [ 3325]     0  3325    23206      233      50       3        0             0 sshd
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351411] [ 3344]     0  3344     5250       69      16       3        0             0 bash
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351412] [ 3587]     0  3587    13174      353      31       3        0             0 sudo
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351413] [ 3588]     0  3588    25227    14971      55       3        0             0 apt-get
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.351415] Out of memory: Kill process 3588 (apt-get) score 116 or sacrifice child
+Feb 15 21:18:45 iZj6c5pz734d3f5cfcdrmhZ kernel: [29548.352303] Killed process 3588 (apt-get) total-vm:100908kB, anon-rss:57644kB, file-rss:2240kB
+Feb 15 21:21:41 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 124 of user root.
+Feb 15 21:21:46 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 125 of user root.
+Feb 15 21:23:28 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 126 of user root.
+Feb 15 21:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[3904]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 21:25:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 128 of user root.
+Feb 15 21:25:17 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 129 of user root.
+Feb 15 21:26:19 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 130 of user root.
+Feb 15 21:28:41 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 131 of user root.
+Feb 15 21:29:48 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 132 of user root.
+Feb 15 21:30:27 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 133 of user root.
+Feb 15 21:30:33 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 134 of user root.
+Feb 15 21:31:24 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 135 of user root.
+Feb 15 21:32:41 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reloading.
+Feb 15 21:32:41 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting Daily apt download activities...
+Feb 15 21:32:42 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped PostgreSQL RDBMS.
+Feb 15 21:32:42 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Daily apt download activities.
+Feb 15 21:32:43 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reloading.
+Feb 15 21:32:44 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped PostgreSQL RDBMS.
+Feb 15 21:32:44 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reloading.
+Feb 15 21:33:34 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: message repeated 8 times: [ Reloading.]
+Feb 15 21:33:34 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 21:33:35 iZj6c5pz734d3f5cfcdrmhZ kernel: [30437.496703] audit: type=1400 audit(1550237615.078:9): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/mysqld" pid=5265 comm="apparmor_parser"
+Feb 15 21:33:35 iZj6c5pz734d3f5cfcdrmhZ kernel: [30438.249710] audit: type=1400 audit(1550237615.830:10): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/proc/5283/status" pid=5283 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Feb 15 21:33:35 iZj6c5pz734d3f5cfcdrmhZ kernel: [30438.249961] audit: type=1400 audit(1550237615.830:11): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/sys/devices/system/node/" pid=5283 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Feb 15 21:33:35 iZj6c5pz734d3f5cfcdrmhZ kernel: [30438.250001] audit: type=1400 audit(1550237615.830:12): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/proc/5283/status" pid=5283 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Feb 15 21:33:36 iZj6c5pz734d3f5cfcdrmhZ kernel: [30438.742825] audit: type=1400 audit(1550237616.326:13): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/mysqld" pid=5297 comm="apparmor_parser"
+Feb 15 21:33:37 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reloading.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reloading.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[5353]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[5365]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[5375]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[5385]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 21:33:38 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[5395]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Start request repeated too quickly.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 21:33:39 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'start-limit-hit'.
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519085] apt-get invoked oom-killer: gfp_mask=0x34200ca, order=0, oom_score_adj=0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519089] apt-get cpuset=/ mems_allowed=0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519094] CPU: 0 PID: 5409 Comm: apt-get Not tainted 4.4.0-105-generic #128-Ubuntu
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519095] Hardware name: Alibaba Cloud Alibaba Cloud ECS, BIOS rel-1.7.5-0-ge51488c-20140602_164612-nilsson.home.kraxel.org 04/01/2014
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519097]  0000000000000286 8d13c5c87de80bdc ffff880018013880 ffffffff813fabe3
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519099]  ffff880018013a38 ffff8800181f0000 ffff8800180138f0 ffffffff8120cb7e
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519101]  ffffffff81cd792f 0000000000000000 ffffffff81e67920 0000000000000206
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519102] Call Trace:
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519111]  [<ffffffff813fabe3>] dump_stack+0x63/0x90
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519116]  [<ffffffff8120cb7e>] dump_header+0x5a/0x1c5
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519121]  [<ffffffff81193562>] oom_kill_process+0x202/0x3c0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519123]  [<ffffffff81193989>] out_of_memory+0x219/0x460
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519126]  [<ffffffff81199995>] __alloc_pages_slowpath.constprop.88+0x965/0xb00
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519128]  [<ffffffff81199db6>] __alloc_pages_nodemask+0x286/0x2a0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519134]  [<ffffffff811e38bc>] alloc_pages_current+0x8c/0x110
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519135]  [<ffffffff8118fb2b>] __page_cache_alloc+0xab/0xc0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519137]  [<ffffffff81190704>] pagecache_get_page+0x84/0x1c0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519138]  [<ffffffff81190866>] grab_cache_page_write_begin+0x26/0x40
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519143]  [<ffffffff812a237f>] ext4_da_write_begin+0xaf/0x340
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519145]  [<ffffffff8118fdde>] generic_perform_write+0xce/0x1c0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519147]  [<ffffffff81191b12>] __generic_file_write_iter+0x1a2/0x1e0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519149]  [<ffffffff81296752>] ext4_file_write_iter+0x102/0x480
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519154]  [<ffffffff812727af>] ? posix_acl_chmod+0x4f/0xe0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519156]  [<ffffffff812a3c15>] ? ext4_setattr+0x675/0x940
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519158]  [<ffffffff8120ff3b>] new_sync_write+0x9b/0xe0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519160]  [<ffffffff8120ffa6>] __vfs_write+0x26/0x40
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519162]  [<ffffffff81210929>] vfs_write+0xa9/0x1a0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519164]  [<ffffffff812115e5>] SyS_write+0x55/0xc0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519171]  [<ffffffff81843872>] entry_SYSCALL_64_fastpath+0x16/0x71
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519172] Mem-Info:
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519176] active_anon:107938 inactive_anon:546 isolated_anon:0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519176]  active_file:934 inactive_file:3395 isolated_file:0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519176]  unevictable:0 dirty:99 writeback:1016 unstable:0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519176]  slab_reclaimable:2575 slab_unreclaimable:3092
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519176]  mapped:650 shmem:717 pagetables:1528 bounce:0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519176]  free:1609 free_pcp:137 free_cma:0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519178] Node 0 DMA free:1836kB min:92kB low:112kB high:136kB active_anon:11424kB inactive_anon:76kB active_file:320kB inactive_file:764kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:15992kB managed:15908kB mlocked:0kB dirty:380kB writeback:384kB mapped:288kB shmem:100kB slab_reclaimable:356kB slab_unreclaimable:504kB kernel_stack:128kB pagetables:208kB unstable:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB writeback_tmp:0kB pages_scanned:6768 all_unreclaimable? yes
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519183] lowmem_reserve[]: 0 436 436 436 436
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519185] Node 0 DMA32 free:4600kB min:2624kB low:3280kB high:3936kB active_anon:420328kB inactive_anon:2108kB active_file:3416kB inactive_file:12816kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:507776kB managed:484032kB mlocked:0kB dirty:16kB writeback:3680kB mapped:2312kB shmem:2768kB slab_reclaimable:9944kB slab_unreclaimable:11864kB kernel_stack:2272kB pagetables:5904kB unstable:0kB bounce:0kB free_pcp:548kB local_pcp:548kB free_cma:0kB writeback_tmp:0kB pages_scanned:97420 all_unreclaimable? yes
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519188] lowmem_reserve[]: 0 0 0 0 0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519190] Node 0 DMA: 9*4kB (UME) 7*8kB (UE) 21*16kB (UME) 12*32kB (UME) 8*64kB (UME) 4*128kB (U) 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 1836kB
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519197] Node 0 DMA32: 46*4kB (UMEH) 86*8kB (UEH) 73*16kB (UEH) 60*32kB (UMEH) 6*64kB (UEH) 0*128kB 1*256kB (H) 0*512kB 0*1024kB 0*2048kB 0*4096kB = 4600kB
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519205] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=1048576kB
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519206] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=2048kB
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519207] 5040 total pagecache pages
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519209] 0 pages in swap cache
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519210] Swap cache stats: add 0, delete 0, find 0/0
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519211] Free swap  = 0kB
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519211] Total swap = 0kB
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519212] 130942 pages RAM
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519213] 0 pages HighMem/MovableOnly
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519213] 5957 pages reserved
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519214] 0 pages cma reserved
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519215] 0 pages hwpoisoned
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519216] [ pid ]   uid  tgid total_vm      rss nr_ptes nr_pmds swapents oom_score_adj name
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519221] [  209]     0   209    10965      617      24       4        0             0 systemd-journal
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519223] [  268]     0   268    11189      319      24       3        0         -1000 systemd-udevd
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519224] [  480]     0   480     7251       69      20       3        0             0 cron
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519226] [  481]   104   481    65156      205      29       3        0             0 rsyslogd
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519228] [  484]     0   484     6510       49      18       3        0             0 atd
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519229] [  502]   106   502    10724      118      26       3        0          -900 dbus-daemon
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519231] [  514]     0   514     7247      200      18       3        0             0 systemd-logind
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519232] [  518]     0   518    68936      164      38       3        0             0 accounts-daemon
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519234] [  596]     0   596     8085      155      20       3        0             0 AliYunDunUpdate
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519235] [  630]     0   630    16345      102      14       2        0             0 aliyun-service
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519237] [  631]     0   631     3998      211      12       3        0             0 dhclient
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519238] [  720]     0   720     3983       34      13       3        0             0 agetty
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519239] [  732]     0   732     3937       34      13       3        0             0 agetty
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519241] [  770]   108   770    27508      164      26       3        0             0 ntpd
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519242] [  872]     0   872    16377      179      36       3        0         -1000 sshd
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519244] [  895]     0   895    32707      556      61       4        0             0 AliYunDun
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519245] [  961]     0   961     9207      187      21       3        0             0 systemd
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519246] [  963]     0   963    15261      445      32       4        0             0 (sd-pam)
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519248] [ 1423]     0  1423     5247       66      15       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519249] [ 1428]     0  1428    27875     5911      58       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519251] [ 1475]     0  1475     5247       66      16       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519252] [ 1484]     0  1484    27884     5911      58       4        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519254] [ 1528]     0  1528     5247       68      16       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519255] [ 1534]     0  1534    27875     5911      59       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519257] [ 1794]     0  1794     5247       67      16       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519258] [ 1797]     0  1797    27885     5913      57       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519260] [ 1841]     0  1841     5247       66      15       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519261] [ 1883]     0  1883    27875     5912      59       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519262] [ 1915]     0  1915    34590     4859      37       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519264] [ 1919]     0  1919    34589     4858      37       4        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519265] [ 1920]     0  1920    34590     4887      37       4        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519266] [ 1921]     0  1921    34590     4859      37       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519268] [ 1922]     0  1922    34590     4858      37       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519269] [ 1971]     0  1971     5247       67      15       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519271] [ 1974]     0  1974    16061     4775      35       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519272] [ 1976]     0  1976    34590     4859      38       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519273] [ 2066]     0  2066     5247       65      15       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519275] [ 2088]     0  2088    27959     5934      58       4        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519276] [ 2090]     0  2090    46380     5986      59       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519278] [ 3134]     0  3134     5247       66      15       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519279] [ 3137]     0  3137    27885     5912      58       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519280] [ 3139]     0  3139    46772     6558      60       3        0             0 python
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519282] [ 4065]     0  4065    23206      243      51       3        0             0 sshd
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519283] [ 4084]     0  4084     5617      576      17       3        0             0 bash
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519285] [ 5408]     0  5408    13174      325      32       3        0             0 sudo
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519286] [ 5409]     0  5409    25226    15009      53       3        0             0 apt-get
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.519287] Out of memory: Kill process 5409 (apt-get) score 116 or sacrifice child
+Feb 15 21:33:53 iZj6c5pz734d3f5cfcdrmhZ kernel: [30455.520098] Killed process 5409 (apt-get) total-vm:100904kB, anon-rss:57776kB, file-rss:2260kB
+Feb 15 21:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[5644]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 21:42:55 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 137 of user root.
+Feb 15 21:43:36 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 138 of user root.
+Feb 15 21:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[5725]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465276] AliYunDun invoked oom-killer: gfp_mask=0x24201ca, order=0, oom_score_adj=0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465280] AliYunDun cpuset=/ mems_allowed=0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465285] CPU: 0 PID: 905 Comm: AliYunDun Not tainted 4.4.0-105-generic #128-Ubuntu
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465287] Hardware name: Alibaba Cloud Alibaba Cloud ECS, BIOS rel-1.7.5-0-ge51488c-20140602_164612-nilsson.home.kraxel.org 04/01/2014
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465289]  0000000000000286 36211f0e7ba55cc7 ffff88001bb6f9d8 ffffffff813fabe3
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465291]  ffff88001bb6fb90 ffff88001b0d2a80 ffff88001bb6fa48 ffffffff8120cb7e
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465293]  ffffffff81cd792f 0000000000000000 ffffffff81e67920 0000000000000206
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465295] Call Trace:
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465304]  [<ffffffff813fabe3>] dump_stack+0x63/0x90
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465309]  [<ffffffff8120cb7e>] dump_header+0x5a/0x1c5
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465313]  [<ffffffff81193562>] oom_kill_process+0x202/0x3c0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465315]  [<ffffffff81193989>] out_of_memory+0x219/0x460
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465318]  [<ffffffff81199995>] __alloc_pages_slowpath.constprop.88+0x965/0xb00
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465320]  [<ffffffff81199db6>] __alloc_pages_nodemask+0x286/0x2a0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465327]  [<ffffffff811e38bc>] alloc_pages_current+0x8c/0x110
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465329]  [<ffffffff8118fb2b>] __page_cache_alloc+0xab/0xc0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465331]  [<ffffffff8119203a>] filemap_fault+0x14a/0x3f0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465336]  [<ffffffff812a4536>] ext4_filemap_fault+0x36/0x50
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465340]  [<ffffffff811befd0>] __do_fault+0x50/0xe0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465342]  [<ffffffff811c2af2>] handle_mm_fault+0xfa2/0x1820
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465346]  [<ffffffff810efc69>] ? hrtimer_try_to_cancel+0x29/0x130
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465354]  [<ffffffff81842a66>] ? do_nanosleep+0x96/0xf0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465358]  [<ffffffff8106b577>] __do_page_fault+0x197/0x400
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465359]  [<ffffffff8106b847>] trace_do_page_fault+0x37/0xe0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465363]  [<ffffffff81063f29>] do_async_page_fault+0x19/0x70
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465365]  [<ffffffff81845a28>] async_page_fault+0x28/0x30
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465367] Mem-Info:
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465371] active_anon:108553 inactive_anon:548 isolated_anon:0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465371]  active_file:706 inactive_file:2959 isolated_file:0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465371]  unevictable:0 dirty:0 writeback:314 unstable:0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465371]  slab_reclaimable:2526 slab_unreclaimable:3114
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465371]  mapped:282 shmem:731 pagetables:1652 bounce:0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465371]  free:1599 free_pcp:30 free_cma:0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465373] Node 0 DMA free:1828kB min:92kB low:112kB high:136kB active_anon:11496kB inactive_anon:76kB active_file:92kB inactive_file:752kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:15992kB managed:15908kB mlocked:0kB dirty:4kB writeback:256kB mapped:48kB shmem:100kB slab_reclaimable:368kB slab_unreclaimable:472kB kernel_stack:128kB pagetables:212kB unstable:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB writeback_tmp:0kB pages_scanned:5200 all_unreclaimable? yes
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465378] lowmem_reserve[]: 0 436 436 436 436
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465380] Node 0 DMA32 free:4568kB min:2624kB low:3280kB high:3936kB active_anon:422716kB inactive_anon:2116kB active_file:2732kB inactive_file:11084kB unevictable:0kB isolated(anon):0kB isolated(file):0kB present:507776kB managed:484032kB mlocked:0kB dirty:0kB writeback:1000kB mapped:1080kB shmem:2824kB slab_reclaimable:9736kB slab_unreclaimable:11984kB kernel_stack:2192kB pagetables:6396kB unstable:0kB bounce:0kB free_pcp:120kB local_pcp:120kB free_cma:0kB writeback_tmp:0kB pages_scanned:88560 all_unreclaimable? yes
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465384] lowmem_reserve[]: 0 0 0 0 0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465386] Node 0 DMA: 11*4kB (UME) 10*8kB (UM) 7*16kB (UM) 12*32kB (UME) 7*64kB (UME) 6*128kB (UM) 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 1836kB
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465394] Node 0 DMA32: 32*4kB (UEH) 75*8kB (UEH) 56*16kB (UEH) 66*32kB (UMEH) 9*64kB (UMEH) 0*128kB 1*256kB (H) 0*512kB 0*1024kB 0*2048kB 0*4096kB = 4568kB
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465401] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=1048576kB
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465403] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=2048kB
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465404] 4398 total pagecache pages
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465405] 0 pages in swap cache
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465407] Swap cache stats: add 0, delete 0, find 0/0
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465407] Free swap  = 0kB
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465408] Total swap = 0kB
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465409] 130942 pages RAM
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465409] 0 pages HighMem/MovableOnly
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465410] 5957 pages reserved
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465411] 0 pages cma reserved
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465411] 0 pages hwpoisoned
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465412] [ pid ]   uid  tgid total_vm      rss nr_ptes nr_pmds swapents oom_score_adj name
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465417] [  209]     0   209    10965      602      24       4        0             0 systemd-journal
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465420] [  268]     0   268    11189      319      24       3        0         -1000 systemd-udevd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465421] [  480]     0   480     7251       69      20       3        0             0 cron
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465423] [  481]   104   481    65156      205      29       3        0             0 rsyslogd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465424] [  484]     0   484     6510       49      18       3        0             0 atd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465426] [  502]   106   502    10724      118      26       3        0          -900 dbus-daemon
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465427] [  514]     0   514     7247      200      18       3        0             0 systemd-logind
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465429] [  518]     0   518    68936      164      38       3        0             0 accounts-daemon
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465430] [  596]     0   596     8085      155      20       3        0             0 AliYunDunUpdate
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465431] [  630]     0   630    16345      102      14       2        0             0 aliyun-service
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465433] [  631]     0   631     3998      211      12       3        0             0 dhclient
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465434] [  720]     0   720     3983       34      13       3        0             0 agetty
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465436] [  732]     0   732     3937       34      13       3        0             0 agetty
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465437] [  770]   108   770    27508      164      26       3        0             0 ntpd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465439] [  872]     0   872    16377      179      36       3        0         -1000 sshd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465440] [  895]     0   895    32706      556      61       4        0             0 AliYunDun
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465442] [  961]     0   961     9207      187      21       3        0             0 systemd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465443] [  963]     0   963    15261      445      32       4        0             0 (sd-pam)
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465444] [ 1423]     0  1423     5247       66      15       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465446] [ 1428]     0  1428    27875     5911      58       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465447] [ 1475]     0  1475     5247       66      16       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465449] [ 1484]     0  1484    27884     5911      58       4        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465450] [ 1528]     0  1528     5247       68      16       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465451] [ 1534]     0  1534    27875     5911      59       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465453] [ 1794]     0  1794     5247       67      16       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465454] [ 1797]     0  1797    27885     5913      57       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465455] [ 1841]     0  1841     5247       66      15       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465457] [ 1883]     0  1883    27875     5912      59       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465458] [ 1915]     0  1915    34590     4859      37       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465460] [ 1919]     0  1919    34589     4858      37       4        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465461] [ 1920]     0  1920    34590     4859      37       4        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465462] [ 1921]     0  1921    34590     4859      37       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465463] [ 1922]     0  1922    34590     4858      37       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465465] [ 1971]     0  1971     5247       67      15       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465466] [ 1974]     0  1974    16061     4775      35       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465467] [ 1976]     0  1976    34590     4859      38       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465469] [ 2066]     0  2066     5247       65      15       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465470] [ 2088]     0  2088    27959     5934      58       4        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465471] [ 2090]     0  2090    46380     5986      59       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465472] [ 3134]     0  3134     5247       66      15       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465474] [ 3137]     0  3137    27885     5912      58       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465475] [ 3139]     0  3139    46772     6558      60       3        0             0 python
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465477] [ 4065]     0  4065    23206      243      51       3        0             0 sshd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465478] [ 4084]     0  4084     5623      449      17       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465479] [ 5676]     0  5676    23206      244      49       3        0             0 sshd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465481] [ 5696]     0  5696     3219       57      11       3        0             0 sftp-server
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465482] [ 5697]     0  5697    23206      241      49       3        0             0 sshd
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465484] [ 5715]     0  5715     5247       65      16       3        0             0 bash
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465485] [ 5746]     0  5746    13174      118      32       3        0             0 sudo
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465486] [ 5747]     0  5747    25227    14601      56       3        0             0 apt-get
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.465488] Out of memory: Kill process 5747 (apt-get) score 113 or sacrifice child
+Feb 15 21:52:00 iZj6c5pz734d3f5cfcdrmhZ kernel: [31542.466450] Killed process 5747 (apt-get) total-vm:100908kB, anon-rss:57544kB, file-rss:860kB
+Feb 15 21:55:01 iZj6c5pz734d3f5cfcdrmhZ CRON[6206]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 22:05:01 iZj6c5pz734d3f5cfcdrmhZ CRON[6210]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 22:15:01 iZj6c5pz734d3f5cfcdrmhZ CRON[6217]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 22:17:01 iZj6c5pz734d3f5cfcdrmhZ CRON[6221]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 15 22:25:01 iZj6c5pz734d3f5cfcdrmhZ CRON[6227]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 22:32:31 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 145 of user root.
+Feb 15 22:35:00 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 146 of user root.
+Feb 15 22:35:01 iZj6c5pz734d3f5cfcdrmhZ CRON[6283]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 22:45:01 iZj6c5pz734d3f5cfcdrmhZ CRON[6289]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Feb 15 22:48:04 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reloading.
+Feb 15 22:48:05 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 22:48:05 iZj6c5pz734d3f5cfcdrmhZ kernel: [34907.603633] audit: type=1400 audit(1550242085.353:14): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/mysqld" pid=6348 comm="apparmor_parser"
+Feb 15 22:48:06 iZj6c5pz734d3f5cfcdrmhZ kernel: [34908.738101] audit: type=1400 audit(1550242086.489:15): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/proc/6366/status" pid=6366 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Feb 15 22:48:06 iZj6c5pz734d3f5cfcdrmhZ kernel: [34908.738267] audit: type=1400 audit(1550242086.489:16): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/sys/devices/system/node/" pid=6366 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Feb 15 22:48:06 iZj6c5pz734d3f5cfcdrmhZ kernel: [34908.738312] audit: type=1400 audit(1550242086.489:17): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/proc/6366/status" pid=6366 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Feb 15 22:48:07 iZj6c5pz734d3f5cfcdrmhZ kernel: [34909.428889] audit: type=1400 audit(1550242087.181:18): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/mysqld" pid=6380 comm="apparmor_parser"
+Feb 15 22:48:07 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reloading.
+Feb 15 22:48:08 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Reloading.
+Feb 15 22:48:08 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 22:48:08 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[6436]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 22:48:08 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 22:48:08 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 22:48:08 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 22:48:08 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[6449]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[6460]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[6470]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 22:48:09 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Starting MySQL Community Server...
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ mysql-systemd-start[6482]: MySQL system database not found in /var/lib/mysql. Please run mysqld --initialize.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Control process exited, code=exited status=1
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'exit-code'.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Service hold-off time over, scheduling restart.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Stopped MySQL Community Server.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Start request repeated too quickly.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Failed to start MySQL Community Server.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Unit entered failed state.
+Feb 15 22:48:10 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: mysql.service: Failed with result 'start-limit-hit'.
+Feb 15 22:52:34 iZj6c5pz734d3f5cfcdrmhZ systemd[1]: Started Session 149 of user root.

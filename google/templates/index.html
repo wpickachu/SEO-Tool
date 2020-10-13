@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SEO Tool</title>
+        {% load static %}
+        <title>Keyword - Optimizer</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <style>
+            body {
+                font-family: "Helvetica Neue", Helvetica, Arial;
+                font-size: 14px;
+                color: #777;
+                -webkit-font-smoothing: antialiased;
+                background: #fcfcfc;
+                padding:15px 0px; 
+            }
+            .badge{
+                padding:5px 6px;
+                font-size: 13px;
+            }
+            .table {
+                color: #777;
+                /*counter-reset: Serial;*/
+            }
+            .table thead{
+                font-size: 12px;
+            }
+            .table td,.table th{
+                padding:5px;
+            }
+            /*.auto-index td:first-child:before
+            {
+            counter-increment: Serial;
+            content:counter(Serial);
+            }*/
+            .text-truncate{
+                max-width:150px
+            }
+            .nav-pills .nav-link.active{
+                background:#E9ECEF;
+                border-top:3px solid #297BCE;
+            }
+            .nav-pills .nav-link{
+                border:1px solid #ddd;
+                border-bottom:0px; 
+                border-top:3px solid #EF7A24;
+                border-radius:5px 5px 0px 0px;
+            }
+            .nav-pills .nav-link:hover{
+                background:#E9ECEF;
+                border-top:3px solid #297BCE;
+            }
+            .btn-primary{
+                background:#297BCE;
+            }
+            .btn-outline-secondary{
+                border-color:#ccc
+            }
+            .btn-outline-secondary:hover{
+                background:#E9ECEF;
+                color: #999;
+            }
+            .switcher-icon {
+                margin: 0px 5px;
+            }
+            #advanced, #basic {
+                font-size: /*1.16rem*/19px;
+            }
+            h2.score {
+                margin-bottom: 0px;
+            }
+            @media (min-width:1200px){
+                .container{
+                    max-width: 1200px ;
+                }
+            }
+            @media (min-width: 576px) {
+                button[type=submit]{
+                    margin-top:28px;
+                }
+            }  
+        </style>
+
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 col-md-12">
+                    <form action="" method="POST" id="nameform" class="keyword-form">
+                        {% csrf_token %}
+                        <div class="form-row">
+                            <div class="form-group col-md-5">
+                                <label>Keyword</label>
+                                {% if data %} <input type="text" class="form-control" name="keyword" id="keyword" value = "{{ keyword }}">
+                                {% else %} <input type="text" class="form-control" name="keyword" id="keyword" value = ""> {% endif %}
+                            </div>
+                            <div class="form-group col-md-5">
+                                <label>Your URL</label>
+                                {% if data %} <input type="text" class="form-control" name="myurl" id="myurl" value = "{{ myurl }}">
+                                {% else %} <input type="text" class="form-control" name="myurl" id="myurl" value = ""> {% endif %}
+                            </div>
+                            <div class="form-group col-md-1">
+                                <button type="submit" value="submit" class="btn btn-success btn-block"><i class="fa fa-search"></i></button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                    <div class="row">
+                        <div class="col text-center border-right">
+                            <h2 class="font-weight-bold score">{% if data %}{{ keyword_difficulty }}% {% else %} 0% {% endif %}</h2>
+                            <p>Top 10 Average Optimization</p>
+                        </div>
+                        <div class="col text-center border-left">
+                            <h2 class="font-weight-bold score">{% if data %}{{ optimization }}% {% else %} 0% {% endif %}</h2>
+                            <p>Your URL Optimization</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class = "row">
+                <div class = "col text-center">
+                    <div style="display: inline-block;" id="loaderImage"></div><br>
+                    <p id="processing-state" style="display: none;">Processing Data...<br>(May take up to 60 seconds)</p>        
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <p>
+                        <button class="btn btn-primary btn-lg" type="button" id="basic">
+                            Basic View
+                        </button> 
+                        <i class="fas fa-exchange-alt fa-lg switcher-icon"></i> 
+                        <button class="btn btn-outline-secondary btn-lg" type="button" id="advanced">
+                            Advanced View
+                        </button>
+                    </p>
+                </div>
+            </div>
+            <div class="row" id="basic_view">
+                <div class="col-md-12 col-xs-12">
+                    <ul class="nav nav-pills" id="myTabFirst" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link text-secondary border-bottom-0 active" id="one-tab" data-toggle="tab" href="#one" role="tab" aria-controls="one" aria-selected="true"><strong>On Page Optimization</strong></a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link text-secondary" id="two-tab" data-toggle="tab" href="#two" role="tab" aria-controls="two" aria-selected="false"><strong>  Page Structure</strong></a>
+                        </li>
+                    </ul>
+                    <div class="tab-content border border-top-0" id="myTabFirstContent">
+                        <div class="tab-pane fade show active" id="one" role="tabpanel" aria-labelledby="one-tab">
+                            
+                            <!-- tab one content -->
+                            <div class="table-responsive-sm">
+                                <table class="table table-hover">
+                                <thead  class="thead-light">
+                                    <tr>
+                                    <th scope="col" class="border-0 w-20 text-left">Element</th>
+                                    <th scope="col" class="border-0 w-25 text-center">Top 10 Average</th>
+                                    <th scope="col" class="border-0 w-25 text-center">Your URL</th>
+                                    <th scope="col" class="border-0 w-20 text-center">Recommendation</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% if data %}
+                                    <tr>
+                                        <td>Word Count</td>
+                                        <td class="text-center">{{ d_avg.word_cnt }}</td>
+                                        <td class="text-center">{{ d_myurl.word_cnt }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.word_cnt }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>URL</td>
+                                        <td class="text-center">{{ d_avg.url }}</td>
+                                        <td class="text-center">{{ d_myurl.url }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.url }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Meta Title</td>
+                                        <td class="text-center">{{ d_avg.mt_title }}</td>
+                                        <td class="text-center">{{ d_myurl.mt_title }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.mt_title }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Meta Description</td>
+                                        <td class="text-center">{{ d_avg.mt_desc }}</td>
+                                        <td class="text-center">{{ d_myurl.mt_desc }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.mt_desc }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>H1</td>
+                                        <td class="text-center">{{ d_avg.h1 }}</td>
+                                        <td class="text-center">{{ d_myurl.h1 }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.h1 }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>H2</td>
+                                        <td class="text-center">{{ d_avg.h2 }}</td>
+                                        <td class="text-center">{{ d_myurl.h2 }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.h2 }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>H3</td>
+                                        <td class="text-center">{{ d_avg.h3 }}</td>
+                                        <td class="text-center">{{ d_myurl.h3 }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.h3 }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>H4</td>
+                                        <td class="text-center">{{ d_avg.h4 }}</td>
+                                        <td class="text-center">{{ d_myurl.h4 }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.h4 }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Paragraph Text</td>
+                                        <td class="text-center">{{ d_avg.p }}</td>
+                                        <td class="text-center">{{ d_myurl.p }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.p }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bold</td>
+                                        <td class="text-center">{{ d_avg.bold }}</td>
+                                        <td class="text-center">{{ d_myurl.bold }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.bold }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Anchor Text</td>
+                                        <td class="text-center">{{ d_avg.a_txt }}</td>
+                                        <td class="text-center">{{ d_myurl.a_txt }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.a_txt }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Anchor Title</td>
+                                        <td class="text-center">{{ d_avg.a_title }}</td>
+                                        <td class="text-center">{{ d_myurl.a_title }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.a_title }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Span & ID</td>
+                                        <td class="text-center">{{ d_avg.span_id }}</td>
+                                        <td class="text-center">{{ d_myurl.span_id }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.span_id }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>IMG Alt</td>
+                                        <td class="text-center">{{ d_avg.img_alt }}</td>
+                                        <td class="text-center">{{ d_myurl.img_alt }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.img_alt }}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>IMG Filename</td>
+                                        <td class="text-center">{{ d_avg.img_name }}</td>
+                                        <td class="text-center">{{ d_myurl.img_name }}</td>
+                                        <td class="text-center"><span class="badge">{{ recom.img_name }}</span></td>
+                                    </tr>
+                                    {% else %}
+                                    <tr> <td colspan="4"> No Result </td> </tr>
+                                    {% endif %}
+                                </tbody>
+                                </table>
+                            </div>
+                            <!-- end responsive table -->
+                        </div>	
+                        <!-- end one tab content -->
+    
+                        <div class="tab-pane fade" id="two" role="tabpanel" aria-labelledby="two-tab">
+                            <!-- tab two content -->
+                            <div class="table-responsive-sm">
+                                <table class="table table-hover">
+                                    <thead class="thead-light">
+                                        <tr>
+                                        <th scope="col" class="border-0 w-20 text-left">Element</th>
+                                        <th scope="col" class="border-0 w-20 text-center">Top 10 Average</th>
+                                        <th scope="col" class="border-0 w-20 text-center">Your URL</th>
+                                        <th scope="col" class="border-0 w-20 text-center">Recommendation</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        {% if data %}
+                                        <tr>
+                                            <td>H1 Tags</td>
+                                            <td class="text-center">{{ d_avg.h_1 }}</td>
+                                            <td class="text-center">{{ d_myurl.h_1 }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.h_1 }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>H2 Tags</td>
+                                            <td class="text-center">{{ d_avg.h_2 }}</td>
+                                            <td class="text-center">{{ d_myurl.h_2 }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.h_2 }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>H3 Tags</td>
+                                            <td class="text-center">{{ d_avg.h_3 }}</td>
+                                            <td class="text-center">{{ d_myurl.h_3 }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.h_3 }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>H4 Tags</td>
+                                            <td class="text-center">{{ d_avg.h_4 }}</td>
+                                            <td class="text-center">{{ d_myurl.h_4 }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.h_4 }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ordered Lists</td>
+                                            <td class="text-center">{{ d_avg.totn_ol }}</td>
+                                            <td class="text-center">{{ d_myurl.totn_ol }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.totn_ol }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ordered List Items</td>
+                                            <td class="text-center">{{ d_avg.ol_li_cnt }}</td>
+                                            <td class="text-center">{{ d_myurl.ol_li_cnt }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.ol_li_cnt }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Unordered Lists</td>
+                                            <td class="text-center">{{ d_avg.totn_ul }}</td>
+                                            <td class="text-center">{{ d_myurl.totn_ul }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.totn_ul }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Unordered List Items</td>
+                                            <td class="text-center">{{ d_avg.ul_li_cnt }}</td>
+                                            <td class="text-center">{{ d_myurl.ul_li_cnt }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.ul_li_cnt }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Images</td>
+                                            <td class="text-center">{{ d_avg.totn_img }}</td>
+                                            <td class="text-center">{{ d_myurl.totn_img }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.totn_img }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Videos</td>
+                                            <td class="text-center">{{ d_avg.totn_vid }}</td>
+                                            <td class="text-center">{{ d_myurl.totn_vid }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.totn_vid }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tables</td>
+                                            <td class="text-center">{{ d_avg.totn_tbl }}</td>
+                                            <td class="text-center">{{ d_myurl.totn_tbl }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.totn_tbl }}</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Table Rows</td>
+                                            <td class="text-center">{{ d_avg.rows }}</td>
+                                            <td class="text-center">{{ d_myurl.rows }}</td>
+                                            <td class="text-center"><span class="badge">{{ recom.rows }}</span></td>
+                                        </tr>
+                                        {% else %}
+                                        <tr> <td colspan="4" style="align-content: center;"> No Result </td> </tr>
+                                        {% endif %}
+                                    </tbody>
+                                </table>
+                                <!-- end table -->
+                            </div>
+                            <!-- end responsive table -->
+                        </div>
+                        <!-- end two tab content -->
+    
+                    </div>
+                    <!-- end tab content -->
+                </div>
+                <!-- end column -->
+            </div>
+            <!-- end FIRST row -->
+            <!-- ========================================================== -->
+            <div class="row"  id="advanced_view">
+                <div class="col-md-12">
+                    <ul class="nav nav-pills" id="myTabSecond" role="tablist">
+                        <li class="nav-item">
+                        <a class="nav-link text-secondary border-bottom-0 active" id="three-tab" data-toggle="tab" href="#three" role="tab" aria-controls="three" aria-selected="true"><strong>On Page Optimization</strong></a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link text-secondary" id="four-tab" data-toggle="tab" href="#four" role="tab" aria-controls="four" aria-selected="false"><strong>Page Structure</strong></a>
+                        </li>
+                    </ul>
+                    <div class="tab-content border border-top-0" id="myTabSecondContent">
+                        <div class="tab-pane fade show active" id="three" role="tabpanel" aria-labelledby="three-tab">
+                            
+                            <!-- tab three content -->
+                            <div class="table-responsive">
+                                <table class="table table-hover auto-index">
+                                    <thead class="thead-light">
+                                        <tr>
+                                        <th scope="col" class="border-0 text-left">Pos.</th>
+                                        <th scope="col" class="border-0 text-left">Page</th>
+                                        <th scope="col" class="border-0 text-center">Word Count</th>
+                                        <th scope="col" class="border-0 text-center">URL</th>
+                                        <th scope="col" class="border-0 text-center">Meta Title</th>
+                                        <th scope="col" class="border-0 text-center">Meta Desc</th>
+                                        <th scope="col" class="border-0 text-center">H1</th>
+                                        <th scope="col" class="border-0 text-center">H2</th>
+                                        <th scope="col" class="border-0 text-center">H3</th>
+                                        <th scope="col" class="border-0 text-center">H4</th>
+                                        <th scope="col" class="border-0 text-center">P</th>
+                                        <th scope="col" class="border-0 text-center">Bold</th>
+                                        <th scope="col" class="border-0 text-center">Anchor Text</th>
+                                        <th scope="col" class="border-0 text-center">Anchor Title</th>
+                                        <th scope="col" class="border-0 text-center">SPAN & ID</th>
+                                        <th scope="col" class="border-0 text-center">IMG Alt</th>
+                                        <th scope="col" class="border-0 text-center">IMG Filename</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% if data %}
+                                    {% for record in data %}
+                                        {% if record.top_url == "Average" %}
+                                            <tr class="text-center table-info font-weight-bold">
+                                        {% elif record.top_url == myurl %}
+                                            <tr class="text-center table-warning font-weight-bold">
+                                        {% else %}
+                                            <tr class="text-center">
+                                        {% endif %}
+                                                {% if record.index > 0 and record.index <= 10 and record.top_url != "Average" %}
+                                                <td>{{ forloop.counter }}</td>
+                                                {% else %}
+                                                <td></td>
+                                                {% endif %}
+
+                                                {% if record.top_url == "Average" %}
+                                                <td>Average</td>
+                                                {% elif record.top_url == myurl and record.index > 9 %}
+                                                <td>Your URL</td>
+                                                {% else %}
+                                                <td><a href="{{ record.top_url }}" title="{{ record.top_url }}" target="_blank" class="d-inline-block text-truncate">{{ record.top_url }}</a></td>
+                                                {% endif %}
+
+                                                <td>{{record.word_cnt}}</td>
+                                                <td>{{record.url}}</td>
+                                                <td>{{record.mt_title}}</td>
+                                                <td>{{record.mt_desc}}</td>
+                                                <td>{{record.h1}}</td>
+                                                <td>{{record.h2}}</td>
+                                                <td>{{record.h3}}</td>
+                                                <td>{{record.h4}}</td>
+                                                <td>{{record.p}}</td>
+                                                <td>{{record.bold}}</td>
+                                                <td>{{record.a_txt}}</td>
+                                                <td>{{record.a_title}}</td>
+                                                <td>{{record.span_id}}</td>
+                                                <td>{{record.img_alt}}</td>
+                                                <td>{{record.img_name}}</td>
+                                            </tr>
+                                            
+                                            {% endfor %}
+                                            <tr class="text-center font-weight-bold">
+                                                <td></td>
+                                                <td><a style = "font-weight: bold;"> {{ recom.top_url }} </a></td>
+                                                <td><strong class="badge">{{recom.word_cnt}}</strong></td>
+                                                <td><strong class="badge">{{recom.url}}</strong></td>
+                                                <td><strong class="badge">{{recom.mt_title}}</strong></td>
+                                                <td><strong class="badge">{{recom.mt_desc}}</strong></td>
+                                                <td><strong class="badge">{{recom.h1}}</strong></td>
+                                                <td><strong class="badge">{{recom.h2}}</strong></td>
+                                                <td><strong class="badge">{{recom.h3}}</strong></td>
+                                                <td><strong class="badge">{{recom.h4}}</strong></td>
+                                                <td><strong class="badge">{{recom.p}}</strong></td>
+                                                <td><strong class="badge">{{recom.bold}}</strong></td>
+                                                <td><strong class="badge">{{recom.a_txt}}</strong></td>
+                                                <td><strong class="badge">{{recom.a_title}}</strong></td>
+                                                <td><strong class="badge">{{recom.span_id}}</strong></td>
+                                                <td><strong class="badge">{{recom.img_alt}}</strong></td>
+                                                <td><strong class="badge">{{recom.img_name}}</strong></td>
+                                            </tr>
+                                            {% else %}
+                                            <tr> <td colspan="17"> No Result </td> </tr>
+                                            {% endif %}
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- end responsive table -->
+                            
+                        </div>	
+                        <!-- end one tab content -->
+                        <div class="tab-pane fade" id="four" role="tabpanel" aria-labelledby="four-tab">
+                            <!-- tab two content -->
+                            <div class="table-responsive">
+                                <table class="table table-hover auto-index">
+                                    <thead class="thead-light">
+                                        <tr>
+                                        <th scope="col" class="border-0 text-left">Pos.</th>
+                                        <th scope="col" class="border-0 text-left">Page</th>
+                                        <th scope="col" class="border-0 text-center">H1 Tags</th>
+                                        <th scope="col" class="border-0 text-center">H2 Tags</th>
+                                        <th scope="col" class="border-0 text-center">H3 Tags</th>
+                                        <th scope="col" class="border-0 text-center">H4 Tags</th>
+                                        <th scope="col" class="border-0 text-center">Ordered Lists</th>
+                                        <th scope="col" class="border-0 text-center">Ordered List Items</th>
+                                        <th scope="col" class="border-0 text-center">Unordered Lists</th>
+                                        <th scope="col" class="border-0 text-center">Unordered List Items</th>
+                                        <th scope="col" class="border-0 text-center">Images</th>
+                                        <th scope="col" class="border-0 text-center">Videos</th>
+                                        <th scope="col" class="border-0 text-center">Tables</th>
+                                        <th scope="col" class="border-0 text-center">Table Rows</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% if data %}
+                                    {% for record in data %}
+                                        {% if record.top_url == "Average" %}
+                                            <tr class="text-center table-info font-weight-bold">
+                                        {% elif record.top_url == myurl %}
+                                            <tr class="text-center table-warning font-weight-bold">
+                                        {% else %}
+                                            <tr class="text-center">
+                                        {% endif %}
+                                                {% if record.index > 0 and record.index <= 10 and record.top_url != "Average" %}
+                                                <td>{{ forloop.counter }}</td>
+                                                {% else %}
+                                                <td></td>
+                                                {% endif %}
+
+                                                {% if record.top_url == "Average" %}
+                                                <td>Average</td>
+                                                {% elif record.top_url == myurl and record.index > 9 %}
+                                                <td>Your URL</td>
+                                                {% else %}
+                                                <td><a href="{{ record.top_url }}" title="{{ record.top_url }}" target="_blank" class="d-inline-block text-truncate">{{ record.top_url }}</a></td>
+                                                {% endif %}
+
+                                                <td>{{record.h_1}}</td>
+                                                <td>{{record.h_2}}</td>
+                                                <td>{{record.h_3}}</td>
+                                                <td>{{record.h_4}}</td>
+                                                <td>{{record.totn_ol}}</td>
+                                                <td>{{record.ol_li_cnt}}</td>
+                                                <td>{{record.totn_ul}}</td>
+                                                <td>{{record.ul_li_cnt}}</td>
+                                                <td>{{record.totn_img}}</td>
+                                                <td>{{record.totn_vid}}</td>
+                                                <td>{{record.totn_tbl}}</td>
+                                                <td>{{record.rows}}</td>
+                                            </tr>
+                                            
+                                            {% endfor %}
+                                            <tr class="text-center font-weight-bold">
+                                                <td></td>
+                                                <td><a style = "font-weight: bold;"> {{ recom.top_url }} </a></td>
+                                                <td><strong class="badge">{{recom.h_1}}</strong></td>
+                                                <td><strong class="badge">{{recom.h_2}}</strong></td>
+                                                <td><strong class="badge">{{recom.h_3}}</strong></td>
+                                                <td><strong class="badge">{{recom.h_4}}</strong></td>
+                                                <td><strong class="badge">{{recom.totn_ol}}</strong></td>
+                                                <td><strong class="badge">{{recom.ol_li_cnt}}</strong></td>
+                                                <td><strong class="badge">{{recom.totn_ul}}</strong></td>
+                                                <td><strong class="badge">{{recom.ul_li_cnt}}</strong></td>
+                                                <td><strong class="badge">{{recom.totn_img}}</strong></td>
+                                                <td><strong class="badge">{{recom.totn_vid}}</strong></td>
+                                                <td><strong class="badge">{{recom.totn_tbl}}</strong></td>
+                                                <td><strong class="badge">{{recom.rows}}</strong></td>
+                                            </tr>
+                                            {% else %}
+                                            <tr> <td colspan="14"> No Result </td> </tr>
+                                            {% endif %}
+                                    </tbody>
+                                </table>
+                                <!-- end table -->
+                            </div>
+                            <!-- end responsive table -->
+                        </div>
+                        <!-- end four tab content -->
+                    </div>
+                    <!-- end tab content -->
+                </div>
+                <!-- end column -->
+            </div>
+            <!-- end SECOND row -->
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        <script >
+            var cSpeed=6;
+            var cWidth=160;
+            var cHeight=20;
+            var cTotalFrames=13;
+            var cFrameWidth=160;
+            var cImageSrc = "{% static 'images/sprites.gif' %}";
+            
+            var cImageTimeout=false;
+            var cIndex=0;
+            var cXpos=0;
+            var cPreloaderTimeout=false;
+            var SECONDS_BETWEEN_FRAMES=0;
+            
+            $("#advanced_view").hide();
+
+            $("#basic").click(function(){
+                $(this).removeClass( "btn-outline-secondary" ).addClass( "btn-primary" );
+                $("#advanced").removeClass( "btn-primary" ).addClass( "btn-outline-secondary" );
+                $("#basic_view").show();
+                $("#advanced_view").hide();
+            });
+
+            $("#advanced").click(function(){
+                $(this).removeClass( "btn-outline-secondary" ).addClass( "btn-primary" );
+                $("#basic").removeClass( "btn-primary" ).addClass( "btn-outline-secondary" );
+                $("#advanced_view").show();
+                $("#basic_view").hide();
+            });
+            
+            $(".badge").each (function (index) {
+                var str = $(this).text();
+
+                if (str.startsWith("Remove"))
+                    $(this).addClass("badge-warning");
+                else if (str.startsWith("(Optional)"))
+                    $(this).addClass("badge-optional");
+                else if(str.startsWith("No Change"))
+                    $(this).addClass("badge-success");
+                else if(str.startsWith("Add"))
+                    $(this).addClass("badge-danger");
+            });
+
+            function startAnimation(){
+                
+                document.getElementById('loaderImage').style.backgroundImage='url('+cImageSrc+')';
+                document.getElementById('loaderImage').style.width=cWidth+'px';
+                document.getElementById('loaderImage').style.height=cHeight+'px';
+                
+                //FPS = Math.round(100/(maxSpeed+2-speed));
+                FPS = Math.round(100/cSpeed);
+                SECONDS_BETWEEN_FRAMES = 1 / FPS;
+                
+                cPreloaderTimeout=setTimeout('continueAnimation()', SECONDS_BETWEEN_FRAMES/1000);
+            }
+            
+            function continueAnimation() {
+                cXpos += cFrameWidth;
+                //increase the index so we know which frame of our animation we are currently on
+                cIndex += 1;
+                
+                //if our cIndex is higher than our total number of frames, we're at the end and should restart
+                if (cIndex >= cTotalFrames) {
+                    cXpos =0;
+                    cIndex=0;
+                }
+                
+                if(document.getElementById('loaderImage'))
+                    document.getElementById('loaderImage').style.backgroundPosition=(-cXpos)+'px 0';
+                
+                cPreloaderTimeout=setTimeout('continueAnimation()', SECONDS_BETWEEN_FRAMES*1000);
+            }
+            
+            function stopAnimation(){//stops animation
+                clearTimeout(cPreloaderTimeout);
+                cPreloaderTimeout=false;
+            }
+            
+            function imageLoader(s, fun)//Pre-loads the sprites image
+            {
+                clearTimeout(cImageTimeout);
+                cImageTimeout=0;
+                genImage = new Image();
+                genImage.onload=function (){cImageTimeout=setTimeout(fun, 0)};
+                genImage.onerror=new Function('alert(\'Could not load the image\')');
+                genImage.src=s;
+            }
+            
+            function processForm(e) {
+                // if (e.preventDefault) e.preventDefault();
+                /* do what you want with the form */
+                var keyword = document.getElementById('keyword').value
+                var myurl = document.getElementById('myurl').value
+
+                if (keyword == '') {
+                    alert ('Input search keyword');
+                    e.preventDefault();
+                    return false;
+                }
+
+                if (myurl == '') {
+                    alert ('Input your url');
+                    e.preventDefault();
+                    return false;
+                }
+                
+                myurl = myurl.trim();
+                if (myurl.startsWith("http://") != true && myurl.startsWith("https://") != true) {
+                    alert ('You should include https:// or http:// in your url');
+                    e.preventDefault();
+                    return false;
+                }
+
+                var processing_state = document.getElementById("processing-state");
+                if (processing_state.style.display == "none") {
+                    processing_state.style.display = "block";
+                } else {
+                    processing_state.style.display = "none";
+                }
+
+                imageloader = new imageLoader(cImageSrc, 'startAnimation()');
+                // You must return false to prevent the default form behavior
+            }
+
+            var form = document.getElementById('nameform');
+            if (form.attachEvent) {
+                form.attachEvent("submit", processForm);
+            } else {
+                form.addEventListener("submit", processForm);
+            }
+        </script>
+    </body>
+</html>

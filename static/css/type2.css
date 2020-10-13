@@ -1,0 +1,63 @@
+.fTable {
+  background: #f6f6f6;
+  text-align: center;
+  font-size: 15px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  border: 1px solid #2980b9;
+  border-collapse: collapse;
+  counter-reset: tableCount;
+  width: 100%;
+}
+
+.fTable th {
+  background: #3a85b8;
+  color: white;
+  padding: 6px 12px;
+  border: 1px solid rgb(83, 82, 82);
+}
+
+.fTable td {
+  margin: 3px 0 3px 0;
+  padding: 6px 12px;
+  border: 1px solid #8c8f91;
+}
+
+.fTable td.add {
+  background-color: #E37F7F;
+}
+
+.fTable td.remove {
+  background-color: #FFF3A3;
+}
+
+.fTable td.nochange {
+  background-color: #B1D5AD;
+}
+
+.counterCell:before {              
+  content: counter(tableCount); 
+  counter-increment: tableCount;
+}
+
+.fTable td.page{
+  max-width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* tr, td {
+  
+} */
+
+.average{
+  background: #96c7e8 !important;
+  font-weight: bold !important;
+}
+
+.myurl{
+  background: #ffffcc !important;
+  font-weight: bold !important;
+}
+
+.fTable tr:nth-child(even) {background: #BBB}
+.fTable tr:nth-child(odd) {background: #EEE}
